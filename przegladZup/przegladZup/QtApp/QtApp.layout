@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<ActiveTarget name="Debug" />
+	<File name="GraphWidget.cpp" open="0" top="0" tabpos="0">
+		<Cursor position="194" topLine="0" />
+	</File>
+	<File name="GraphWidget.h" open="0" top="0" tabpos="2">
+		<Cursor position="127" topLine="0" />
+	</File>
+	<File name="GraphWidget.hmoc.cpp" open="0" top="0" tabpos="0">
+		<Cursor position="2441" topLine="51" />
+	</File>
+	<File name="SimulationViewer.cpp" open="0" top="0" tabpos="0">
+		<Cursor position="1180" topLine="20" />
+	</File>
+	<File name="SimulationViewer.h" open="0" top="0" tabpos="0">
+		<Cursor position="421" topLine="0" />
+	</File>
+	<File name="Vertex.cpp" open="0" top="0" tabpos="0">
+		<Cursor position="399" topLine="0" />
+	</File>
+	<File name="Vertex.h" open="0" top="0" tabpos="0">
+		<Cursor position="364" topLine="0" />
+	</File>
+	<File name="Vertex.hmoc.cpp" open="0" top="0" tabpos="0">
+		<Cursor position="2" topLine="0" />
+	</File>
+	<File name="main.cpp" open="0" top="0" tabpos="1">
+		<Cursor position="522" topLine="0" />
+	</File>
+	<File name="..\Solver.cpp" open="1" top="0" tabpos="0">
+		<Cursor position="909" topLine="0" />
+	</File>
+	<File name="..\read.cpp" open="0" top="0" tabpos="0">
+		<Cursor position="77" topLine="0" />
+	</File>
+</CodeBlocks_layout_file>

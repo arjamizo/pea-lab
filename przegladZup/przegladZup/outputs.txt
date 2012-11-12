@@ -1,0 +1,99 @@
+5.txt	0.000489465	45	5	47	CutIfSwappingMakesBetter	E B D A C 
+6.txt	0.000787956	80	6	92	CutIfSwappingMakesBetter	E F D B A C 
+8.txt	0.00544043	357	8	223	CutIfSwappingMakesBetter	G E F D H B A C 
+9.txt	0.0119392	690	9	313	CutIfSwappingMakesBetter	G E F D I B H A C 
+10.txt	0.0436801	3065	10	382	CutIfSwappingMakesBetter	G F J E D I B H A C 
+11.txt	0.11432	8366	11	502	CutIfSwappingMakesBetter	G F J E K D I B H A C 
+12.txt	0.250369	15620	12	657	CutIfSwappingMakesBetter	L G J F K E D I B H A C 
+13.txt	0.5589	32770	13	855	CutIfSwappingMakesBetter	L G J F K E D I B H M A C 
+15.txt	3.70017	191152	15	1103	CutIfSwappingMakesBetter	L G J F K E D I N B H M A C O 
+17.txt	31.6051	1307824	17	1162	CutIfSwappingMakesBetter	L G J E D F P K N I B H M A C O Q 
+18.txt	66.882	2615809	18	1346	CutIfSwappingMakesBetter	L G J E D F P K N I B H M A C O R Q 
+5.txt	0.000627703	167	5	42	CutIfActualWorseThanBestTillNow	E B A D C 
+6.txt	0.0020664	875	6	82	CutIfActualWorseThanBestTillNow	E F B D A C 
+8.txt	0.10943	37786	8	223	CutIfActualWorseThanBestTillNow	G E F D H B A C 
+9.txt	1.12649	317643	9	313	CutIfActualWorseThanBestTillNow	G E F I D H B A C 
+10.txt	8.19929	2080289	10	370	CutIfActualWorseThanBestTillNow	G E F J D I B H A C 
+11.txt	67.6851	14906059	11	454	CutIfActualWorseThanBestTillNow	G E F J D I K B H A C 
+5.txt	0.000641014	326	5	42	AllCheck	E B A D C 
+6.txt	0.00377134	1957	6	82	AllCheck	E F B D A C 
+8.txt	0.265216	109601	8	223	AllCheck	G E F D H B A C 
+9.txt	2.96689	986410	9	313	AllCheck	G E F I D H B A C 
+10.txt	30.6696	9864101	10	370	AllCheck	G E F J D I B H A C 
+11.txt	384.312	108505112	11	454	AllCheck	G E F J D I K B H A C 
+5.txt	0.000468473	61	5	46	CutIfGreaterThanCriterionLB	E A B D C 
+6.txt	0.00112331	139	6	89	CutIfGreaterThanCriterionLB	E F A D B C 
+8.txt	0.00530424	450	8	224	CutIfGreaterThanCriterionLB	G E F D H B C A 
+9.txt	0.00907148	733	9	314	CutIfGreaterThanCriterionLB	G E F D I B H C A 
+5.txt	0.00070655	326	5	42	AllCheck	E B A D C 
+6.txt	0.00482092	1957	6	82	AllCheck	E F B D A C 
+8.txt	0.25914	109601	8	223	AllCheck	G E F D H B A C 
+9.txt	2.86565	986410	9	313	AllCheck	G E F I D H B A C 
+5.txt	0.000645622	326	5	42	AllCheck	E B A D C 
+6.txt	0.00423315	1957	6	82	AllCheck	E F B D A C 
+8.txt	0.317654	109601	8	223	AllCheck	G E F D H B A C 
+9.txt	2.90633	986410	9	313	AllCheck	G E F I D H B A C 
+5.txt	0.000473081	61	5	46	CutIfGreaterThanCriterionLB	E A B D C 
+6.txt	0.00113458	139	6	89	CutIfGreaterThanCriterionLB	E F A D B C 
+8.txt	0.00417632	450	8	224	CutIfGreaterThanCriterionLB	G E F D H B C A 
+9.txt	0.00833012	733	9	314	CutIfGreaterThanCriterionLB	G E F D I B H C A 
+10.txt	0.011634	857	10	386	CutIfGreaterThanCriterionLB	E F G J D I B C H A 
+11.txt	0.0594904	4390	11	509	CutIfGreaterThanCriterionLB	E F G J K I D B C H A 
+12.txt	0.249598	4507	12	633	CutIfGreaterThanCriterionLB	E G L J D F I K B C H A 
+13.txt	0.240298	14442	13	909	CutIfGreaterThanCriterionLB	E G J L K F I D M B C H A 
+15.txt	2.5743	143947	15	1147	CutIfGreaterThanCriterionLB	D L E J G K F I N M B C H O A 
+17.txt	9.90287	430740	17	1238	CutIfGreaterThanCriterionLB	L G J D K P F I E N M B C H O Q A 
+18.txt	17.7439	755807	18	1386	CutIfGreaterThanCriterionLB	E L G J K N P F I D M A B C H O R Q 
+5.txt	0.000654838	326	5	42	AllCheck	E B A D C 
+6.txt	0.00369505	1957	6	82	AllCheck	E F B D A C 
+8.txt	0.260033	109601	8	223	AllCheck	G E F D H B A C 
+9.txt	2.77238	986410	9	313	AllCheck	G E F I D H B A C 
+10.txt	31.9912	9864101	10	370	AllCheck	G E F J D I B H A C 
+5.txt	0.000449529	45	5	47	CutIfSwappingMakesBetter	E B D A C 
+6.txt	0.000887795	80	6	92	CutIfSwappingMakesBetter	E F D B A C 
+8.txt	0.00448045	357	8	223	CutIfSwappingMakesBetter	G E F D H B A C 
+9.txt	0.0143046	690	9	313	CutIfSwappingMakesBetter	G E F D I B H A C 
+10.txt	0.124628	3065	10	382	CutIfSwappingMakesBetter	G F J E D I B H A C 
+11.txt	0.142331	8366	11	502	CutIfSwappingMakesBetter	G F J E K D I B H A C 
+12.txt	0.26065	15620	12	657	CutIfSwappingMakesBetter	L G J F K E D I B H A C 
+13.txt	0.565297	32770	13	855	CutIfSwappingMakesBetter	L G J F K E D I B H M A C 
+15.txt	3.88731	191152	15	1103	CutIfSwappingMakesBetter	L G J F K E D I N B H M A C O 
+5.txt	0.00041881	61	5	46	CutIfGreaterThanCriterionLB	E A B D C 
+6.txt	0.000973298	139	6	89	CutIfGreaterThanCriterionLB	E F A D B C 
+8.txt	0.00421626	450	8	224	CutIfGreaterThanCriterionLB	G E F D H B C A 
+9.txt	0.00842074	733	9	314	CutIfGreaterThanCriterionLB	G E F D I B H C A 
+10.txt	0.0127317	857	10	386	CutIfGreaterThanCriterionLB	E F G J D I B C H A 
+11.txt	0.0587081	4390	11	509	CutIfGreaterThanCriterionLB	E F G J K I D B C H A 
+12.txt	0.0650266	4507	12	633	CutIfGreaterThanCriterionLB	E G L J D F I K B C H A 
+13.txt	0.258782	14442	13	909	CutIfGreaterThanCriterionLB	E G J L K F I D M B C H A 
+15.txt	2.77055	143947	15	1147	CutIfGreaterThanCriterionLB	D L E J G K F I N M B C H O A 
+17.txt	10.2001	430740	17	1238	CutIfGreaterThanCriterionLB	L G J D K P F I E N M B C H O Q A 
+18.txt	17.5208	755807	18	1386	CutIfGreaterThanCriterionLB	E L G J K N P F I D M A B C H O R Q 
+5.txt	0.000705014	326	5	42	AllCheck	E B A D C 
+6.txt	0.00885388	1957	6	82	AllCheck	E F B D A C 
+8.txt	0.284063	109601	8	223	AllCheck	G E F D H B A C 
+9.txt	3.01203	986410	9	313	AllCheck	G E F I D H B A C 
+10.txt	31.0972	9864101	10	370	AllCheck	G E F J D I B H A C 
+5.txt	0.000543224	45	5	47	CutIfSwappingMakesBetter	E B D A C 
+6.txt	0.000991729	80	6	92	CutIfSwappingMakesBetter	E F D B A C 
+8.txt	0.00456288	357	8	223	CutIfSwappingMakesBetter	G E F D H B A C 
+9.txt	0.0112674	690	9	313	CutIfSwappingMakesBetter	G E F D I B H A C 
+10.txt	0.0460609	3065	10	382	CutIfSwappingMakesBetter	G F J E D I B H A C 
+11.txt	0.112625	8366	11	502	CutIfSwappingMakesBetter	G F J E K D I B H A C 
+12.txt	0.271965	15620	12	657	CutIfSwappingMakesBetter	L G J F K E D I B H A C 
+13.txt	0.566117	32770	13	855	CutIfSwappingMakesBetter	L G J F K E D I B H M A C 
+15.txt	4.14881	191152	15	1103	CutIfSwappingMakesBetter	L G J F K E D I N B H M A C O 
+17.txt	32.4929	1307824	17	1162	CutIfSwappingMakesBetter	L G J E D F P K N I B H M A C O Q 
+18.txt	67.928	2615809	18	1346	CutIfSwappingMakesBetter	L G J E D F P K N I B H M A C O R Q 
+5.txt	0.000653814	167	5	42	CutIfActualWorseThanBestTillNow	E B A D C 
+6.txt	0.00207408	875	6	82	CutIfActualWorseThanBestTillNow	E F B D A C 
+8.txt	0.109363	37786	8	223	CutIfActualWorseThanBestTillNow	G E F D H B A C 
+9.txt	0.991893	317643	9	313	CutIfActualWorseThanBestTillNow	G E F I D H B A C 
+10.txt	7.80908	2080289	10	370	CutIfActualWorseThanBestTillNow	G E F J D I B H A C 
+11.txt	70.1881	14906059	11	454	CutIfActualWorseThanBestTillNow	G E F J D I K B H A C 
+12.txt	578.065	122523804	12	599	CutIfActualWorseThanBestTillNow	G L E J D F K I B H A C 
+11.txt	371.852	108505112	11	454	AllCheck	G E F J D I K B H A C 
+13.txt	5623.67	1174299091	13	797	CutIfActualWorseThanBestTillNow	G L E J D F K I B H M A C 
+5.txt	0.000385532	61	111	5	46	CutIfGreaterThanCriterionLB	E A B D C 
+5.txt.txt	6.14394e-006	1	0	0	0	CutIfGreaterThanCriterionLB	
+5.txt	0.000417788	61	111	5	46	CutIfGreaterThanCriterionLB	E A B D C 

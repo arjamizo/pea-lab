@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<ActiveTarget name="Release" />
+	<File name="..\przegladZup\Solver.cpp" open="1" top="0" tabpos="2">
+		<Cursor position="4707" topLine="116" />
+	</File>
+	<File name="..\przegladZup\Solver.h" open="0" top="0" tabpos="0">
+		<Cursor position="113" topLine="0" />
+	</File>
+	<File name="..\przegladZup\Zad.cpp" open="0" top="0" tabpos="0">
+		<Cursor position="387" topLine="0" />
+	</File>
+	<File name="..\przegladZup\Zad.h" open="0" top="0" tabpos="0">
+		<Cursor position="26" topLine="0" />
+	</File>
+	<File name="..\przegladZup\genTest.rb" open="0" top="0" tabpos="2">
+		<Cursor position="55" topLine="0" />
+	</File>
+	<File name="..\przegladZup\przegladZup.cpp" open="1" top="1" tabpos="1">
+		<Cursor position="5696" topLine="157" />
+	</File>
+</CodeBlocks_layout_file>

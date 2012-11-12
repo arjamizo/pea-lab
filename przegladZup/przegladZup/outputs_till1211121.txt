@@ -1,0 +1,32 @@
+5.txt	0.000513016	61	5	E A B D C 	CutIfGreaterThanCriterionLB
+6.txt	0.00113816	139	6	E F A D B C 	CutIfGreaterThanCriterionLB
+8.txt	0.00445945	450	8	G E F D H B C A 	CutIfGreaterThanCriterionLB
+9.txt	0.0102516	733	9	G E F D I B H C A 	CutIfGreaterThanCriterionLB
+5.txt	0.000467961	45	5	E B D A C 	CutIfSwappingMakesBetter
+6.txt	0.000939506	80	6	E F D B A C 	CutIfSwappingMakesBetter
+8.txt	0.00517368	357	8	G E F D H B A C 	CutIfSwappingMakesBetter
+9.txt	0.0126298	690	9	G E F D I B H A C 	CutIfSwappingMakesBetter
+10.txt	0.0460332	3065	10	G F J E D I B H A C 	CutIfSwappingMakesBetter
+11.txt	0.113235	8366	11	G F J E K D I B H A C 	CutIfSwappingMakesBetter
+12.txt	0.256567	15620	12	L G J F K E D I B H A C 	CutIfSwappingMakesBetter
+13.txt	0.550112	32770	13	L G J F K E D I B H M A C 	CutIfSwappingMakesBetter
+15.txt	3.76068	191152	15	L G J F K E D I N B H M A C O 	CutIfSwappingMakesBetter
+17.txt	30.6232	1307824	17	L G J E D F P K N I B H M A C O Q 	CutIfSwappingMakesBetter
+18.txt	65.8342	2615809	18	L G J E D F P K N I B H M A C O R Q 	CutIfSwappingMakesBetter
+5.txt	0.000489977	167	5	E B A D C 	CutIfActualWorseThanBestTillNow
+6.txt	0.00221386	875	6	E F B D A C 	CutIfActualWorseThanBestTillNow
+8.txt	0.102891	37786	8	G E F D H B A C 	CutIfActualWorseThanBestTillNow
+9.txt	1.0669	317643	9	G E F I D H B A C 	CutIfActualWorseThanBestTillNow
+10.txt	7.34762	2080289	10	G E F J D I B H A C 	CutIfActualWorseThanBestTillNow
+11.txt	67.443	14906059	11	G E F J D I K B H A C 	CutIfActualWorseThanBestTillNow
+12.txt	562.383	122523804	12	G L E J D F K I B H A C 	CutIfActualWorseThanBestTillNow
+5.txt	0.000795124	61	5	E A B D C 	CutIfGreaterThanCriterionLB
+5.txt	0.000472057	45	5	E B D A C 	CutIfSwappingMakesBetter
+6.txt	0.000869363	80	6	E F D B A C 	CutIfSwappingMakesBetter
+8.txt	0.00502418	357	8	G E F D H B A C 	CutIfSwappingMakesBetter
+9.txt	0.0122714	690	9	G E F D I B H A C 	CutIfSwappingMakesBetter
+10.txt	0.118826	3065	10	G F J E D I B H A C 	CutIfSwappingMakesBetter
+11.txt	0.142486	8366	11	G F J E K D I B H A C 	CutIfSwappingMakesBetter
+12.txt	0.24659	15620	12	L G J F K E D I B H A C 	CutIfSwappingMakesBetter
+13.txt	0.665018	32770	13	L G J F K E D I B H M A C 	CutIfSwappingMakesBetter
+15.txt	3.97069	191152	15	L G J F K E D I N B H M A C O 	CutIfSwappingMakesBetter

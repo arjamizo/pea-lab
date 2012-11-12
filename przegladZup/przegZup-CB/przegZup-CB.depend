@@ -1,0 +1,49 @@
+# depslib dependency file v1.0
+1352675911 source:c:\me_ftp\labpea\przegladzup\przegladzup\zad.cpp
+	"Zad.h"
+
+1352676215 c:\me_ftp\labpea\przegladzup\przegladzup\zad.h
+	<iostream>
+	<istream>
+	<ostream>
+
+1352688960 source:c:\me_ftp\labpea\przegladzup\przegladzup\przegladzup.cpp
+	"stdafx.h"
+	<fstream>
+	<list>
+	<sstream>
+	<iostream>
+	<string>
+	<limits>
+	<algorithm>
+	<string>
+	<iterator>
+	<vector>
+	"Zad.h"
+	"Solver.h"
+	<memory>
+	<cstring>
+
+1351525558 c:\me_ftp\labpea\przegladzup\przegladzup\stdafx.h
+	"targetver.h"
+	<stdio.h>
+	<tchar.h>
+
+1351525558 c:\me_ftp\labpea\przegladzup\przegladzup\targetver.h
+	<SDKDDKVer.h>
+
+1352717888 c:\me_ftp\labpea\przegladzup\przegladzup\solver.h
+	<list>
+	"Zad.h"
+
+1352718043 source:c:\me_ftp\labpea\przegladzup\przegladzup\solver.cpp
+	"Solver.h"
+	<iterator>
+	<windows.h>
+	"SimulationViewer.h"
+
+1352682753 source:c:\me_ftp\labpea\przegladzup\przegladzup\read.cpp
+	<fstream>
+	<list>
+	"Zad.h"
+

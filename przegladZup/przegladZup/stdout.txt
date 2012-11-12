@@ -1,0 +1,2742 @@
+C:\Users\pas207\devenv\przegladZup\przegladZup
+podaj numer pliku
+wczytywanie pwd=Debug\przegladZup.exe: C:\Users\pas207\devenv\przegladZup\przegladZup\5.txt
+stworzono nowe zadanie, INFO: koszt=5 deadline=10 waga=1
+
+stworzono nowe zadanie, INFO: koszt=8 deadline=4 waga=2
+
+stworzono nowe zadanie, INFO: koszt=11 deadline=22 waga=2
+
+stworzono nowe zadanie, INFO: koszt=5 deadline=23 waga=3
+
+stworzono nowe zadanie, INFO: koszt=3 deadline=2 waga=2
+
+wywolanie interafece'u
+wywolywanie funkcji z argumentami: nieuporzadkowana: 
+koszt=5 deadline=10 waga=1
+koszt=8 deadline=4 waga=2
+koszt=11 deadline=22 waga=2
+koszt=5 deadline=23 waga=3
+koszt=3 deadline=2 waga=2
+
+ uporzadkowana: 
+wywolywanie funkcji z argumentami: nieuporzadkowana: 
+koszt=8 deadline=4 waga=2
+koszt=11 deadline=22 waga=2
+koszt=5 deadline=23 waga=3
+koszt=3 deadline=2 waga=2
+
+ uporzadkowana: 
+koszt=5 deadline=10 waga=1
+wywolywanie funkcji z argumentami: nieuporzadkowana: 
+koszt=11 deadline=22 waga=2
+koszt=5 deadline=23 waga=3
+koszt=3 deadline=2 waga=2
+
+ uporzadkowana: 
+koszt=5 deadline=10 waga=1
+koszt=8 deadline=4 waga=2
+wywolywanie funkcji z argumentami: nieuporzadkowana: 
+koszt=5 deadline=23 waga=3
+koszt=3 deadline=2 waga=2
+
+ uporzadkowana: 
+koszt=5 deadline=10 waga=1
+koszt=8 deadline=4 waga=2
+koszt=11 deadline=22 waga=2
+wywolywanie funkcji z argumentami: nieuporzadkowana: 
+koszt=3 deadline=2 waga=2
+
+ uporzadkowana: 
+koszt=5 deadline=10 waga=1
+koszt=8 deadline=4 waga=2
+koszt=11 deadline=22 waga=2
+koszt=5 deadline=23 waga=3
+wywolywanie funkcji z argumentami: nieuporzadkowana: 
+
+ uporzadkowana: 
+koszt=5 deadline=10 waga=1
+koszt=8 deadline=4 waga=2
+koszt=11 deadline=22 waga=2
+koszt=5 deadline=23 waga=3
+koszt=3 deadline=2 waga=2
+Congratulations! Solved in 32 time units and extra costs (delay costs) of 100 time units.
+wywolywanie funkcji z argumentami: nieuporzadkowana: 
+koszt=5 deadline=23 waga=3
+
+ uporzadkowana: 
+koszt=5 deadline=10 waga=1
+koszt=8 deadline=4 waga=2
+koszt=11 deadline=22 waga=2
+koszt=3 deadline=2 waga=2
+wywolywanie funkcji z argumentami: nieuporzadkowana: 
+
+ uporzadkowana: 
+koszt=5 deadline=10 waga=1
+koszt=8 deadline=4 waga=2
+koszt=11 deadline=22 waga=2
+koszt=3 deadline=2 waga=2
+koszt=5 deadline=23 waga=3
+Congratulations! Solved in 32 time units and extra costs (delay costs) of 99 time units.
+wywolywanie funkcji z argumentami: nieuporzadkowana: 
+koszt=3 deadline=2 waga=2
+koszt=11 deadline=22 waga=2
+
+ uporzadkowana: 
+koszt=5 deadline=10 waga=1
+koszt=8 deadline=4 waga=2
+koszt=5 deadline=23 waga=3
+wywolywanie funkcji z argumentami: nieuporzadkowana: 
+koszt=11 deadline=22 waga=2
+
+ uporzadkowana: 
+koszt=5 deadline=10 waga=1
+koszt=8 deadline=4 waga=2
+koszt=5 deadline=23 waga=3
+koszt=3 deadline=2 waga=2
+wywolywanie funkcji z argumentami: nieuporzadkowana: 
+
+ uporzadkowana: 
+koszt=5 deadline=10 waga=1
+koszt=8 deadline=4 waga=2
+koszt=5 deadline=23 waga=3
+koszt=3 deadline=2 waga=2
+koszt=11 deadline=22 waga=2
+Congratulations! Solved in 32 time units and extra costs (delay costs) of 76 time units.
+wywolywanie funkcji z argumentami: nieuporzadkowana: 
+koszt=3 deadline=2 waga=2
+
+ uporzadkowana: 
+koszt=5 deadline=10 waga=1
+koszt=8 deadline=4 waga=2
+koszt=5 deadline=23 waga=3
+koszt=11 deadline=22 waga=2
+wywolywanie funkcji z argumentami: nieuporzadkowana: 
+
+ uporzadkowana: 
+koszt=5 deadline=10 waga=1
+koszt=8 deadline=4 waga=2
+koszt=5 deadline=23 waga=3
+koszt=11 deadline=22 waga=2
+koszt=3 deadline=2 waga=2
+Congratulations! Solved in 32 time units and extra costs (delay costs) of 92 time units.
+wywolywanie funkcji z argumentami: nieuporzadkowana: 
+koszt=11 deadline=22 waga=2
+koszt=5 deadline=23 waga=3
+
+ uporzadkowana: 
+koszt=5 deadline=10 waga=1
+koszt=8 deadline=4 waga=2
+koszt=3 deadline=2 waga=2
+wywolywanie funkcji z argumentami: nieuporzadkowana: 
+koszt=5 deadline=23 waga=3
+
+ uporzadkowana: 
+koszt=5 deadline=10 waga=1
+koszt=8 deadline=4 waga=2
+koszt=3 deadline=2 waga=2
+koszt=11 deadline=22 waga=2
+wywolywanie funkcji z argumentami: nieuporzadkowana: 
+
+ uporzadkowana: 
+koszt=5 deadline=10 waga=1
+koszt=8 deadline=4 waga=2
+koszt=3 deadline=2 waga=2
+koszt=11 deadline=22 waga=2
+koszt=5 deadline=23 waga=3
+Congratulations! Solved in 32 time units and extra costs (delay costs) of 83 time units.
+wywolywanie funkcji z argumentami: nieuporzadkowana: 
+koszt=11 deadline=22 waga=2
+
+ uporzadkowana: 
+koszt=5 deadline=10 waga=1
+koszt=8 deadline=4 waga=2
+koszt=3 deadline=2 waga=2
+koszt=5 deadline=23 waga=3
+wywolywanie funkcji z argumentami: nieuporzadkowana: 
+
+ uporzadkowana: 
+koszt=5 deadline=10 waga=1
+koszt=8 deadline=4 waga=2
+koszt=3 deadline=2 waga=2
+koszt=5 deadline=23 waga=3
+koszt=11 deadline=22 waga=2
+Congratulations! Solved in 32 time units and extra costs (delay costs) of 66 time units.
+wywolywanie funkcji z argumentami: nieuporzadkowana: 
+koszt=5 deadline=23 waga=3
+koszt=3 deadline=2 waga=2
+koszt=8 deadline=4 waga=2
+
+ uporzadkowana: 
+koszt=5 deadline=10 waga=1
+koszt=11 deadline=22 waga=2
+wywolywanie funkcji z argumentami: nieuporzadkowana: 
+koszt=3 deadline=2 waga=2
+koszt=8 deadline=4 waga=2
+
+ uporzadkowana: 
+koszt=5 deadline=10 waga=1
+koszt=11 deadline=22 waga=2
+koszt=5 deadline=23 waga=3
+wywolywanie funkcji z argumentami: nieuporzadkowana: 
+koszt=8 deadline=4 waga=2
+
+ uporzadkowana: 
+koszt=5 deadline=10 waga=1
+koszt=11 deadline=22 waga=2
+koszt=5 deadline=23 waga=3
+koszt=3 deadline=2 waga=2
+wywolywanie funkcji z argumentami: nieuporzadkowana: 
+
+ uporzadkowana: 
+koszt=5 deadline=10 waga=1
+koszt=11 deadline=22 waga=2
+koszt=5 deadline=23 waga=3
+koszt=3 deadline=2 waga=2
+koszt=8 deadline=4 waga=2
+Congratulations! Solved in 32 time units and extra costs (delay costs) of 100 time units.
+wywolywanie funkcji z argumentami: nieuporzadkowana: 
+koszt=3 deadline=2 waga=2
+
+ uporzadkowana: 
+koszt=5 deadline=10 waga=1
+koszt=11 deadline=22 waga=2
+koszt=5 deadline=23 waga=3
+koszt=8 deadline=4 waga=2
+wywolywanie funkcji z argumentami: nieuporzadkowana: 
+
+ uporzadkowana: 
+koszt=5 deadline=10 waga=1
+koszt=11 deadline=22 waga=2
+koszt=5 deadline=23 waga=3
+koszt=8 deadline=4 waga=2
+koszt=3 deadline=2 waga=2
+Congratulations! Solved in 32 time units and extra costs (delay costs) of 110 time units.
+wywolywanie funkcji z argumentami: nieuporzadkowana: 
+koszt=8 deadline=4 waga=2
+koszt=5 deadline=23 waga=3
+
+ uporzadkowana: 
+koszt=5 deadline=10 waga=1
+koszt=11 deadline=22 waga=2
+koszt=3 deadline=2 waga=2
+wywolywanie funkcji z argumentami: nieuporzadkowana: 
+koszt=5 deadline=23 waga=3
+
+ uporzadkowana: 
+koszt=5 deadline=10 waga=1
+koszt=11 deadline=22 waga=2
+koszt=3 deadline=2 waga=2
+koszt=8 deadline=4 waga=2
+wywolywanie funkcji z argumentami: nieuporzadkowana: 
+
+ uporzadkowana: 
+koszt=5 deadline=10 waga=1
+koszt=11 deadline=22 waga=2
+koszt=3 deadline=2 waga=2
+koszt=8 deadline=4 waga=2
+koszt=5 deadline=23 waga=3
+Congratulations! Solved in 32 time units and extra costs (delay costs) of 107 time units.
+wywolywanie funkcji z argumentami: nieuporzadkowana: 
+koszt=8 deadline=4 waga=2
+
+ uporzadkowana: 
+koszt=5 deadline=10 waga=1
+koszt=11 deadline=22 waga=2
+koszt=3 deadline=2 waga=2
+koszt=5 deadline=23 waga=3
+wywolywanie funkcji z argumentami: nieuporzadkowana: 
+
+ uporzadkowana: 
+koszt=5 deadline=10 waga=1
+koszt=11 deadline=22 waga=2
+koszt=3 deadline=2 waga=2
+koszt=5 deadline=23 waga=3
+koszt=8 deadline=4 waga=2
+Congratulations! Solved in 32 time units and extra costs (delay costs) of 93 time units.
+wywolywanie funkcji z argumentami: nieuporzadkowana: 
+koszt=5 deadline=23 waga=3
+koszt=3 deadline=2 waga=2
+
+ uporzadkowana: 
+koszt=5 deadline=10 waga=1
+koszt=11 deadline=22 waga=2
+koszt=8 deadline=4 waga=2
+wywolywanie funkcji z argumentami: nieuporzadkowana: 
+koszt=3 deadline=2 waga=2
+
+ uporzadkowana: 
+koszt=5 deadline=10 waga=1
+koszt=11 deadline=22 waga=2
+koszt=8 deadline=4 waga=2
+koszt=5 deadline=23 waga=3
+wywolywanie funkcji z argumentami: nieuporzadkowana: 
+
+ uporzadkowana: 
+koszt=5 deadline=10 waga=1
+koszt=11 deadline=22 waga=2
+koszt=8 deadline=4 waga=2
+koszt=5 deadline=23 waga=3
+koszt=3 deadline=2 waga=2
+Congratulations! Solved in 32 time units and extra costs (delay costs) of 118 time units.
+wywolywanie funkcji z argumentami: nieuporzadkowana: 
+koszt=5 deadline=23 waga=3
+
+ uporzadkowana: 
+koszt=5 deadline=10 waga=1
+koszt=11 deadline=22 waga=2
+koszt=8 deadline=4 waga=2
+koszt=3 deadline=2 waga=2
+wywolywanie funkcji z argumentami: nieuporzadkowana: 
+
+ uporzadkowana: 
+koszt=5 deadline=10 waga=1
+koszt=11 deadline=22 waga=2
+koszt=8 deadline=4 waga=2
+koszt=3 deadline=2 waga=2
+koszt=5 deadline=23 waga=3
+Congratulations! Solved in 32 time units and extra costs (delay costs) of 117 time units.
+wywolywanie funkcji z argumentami: nieuporzadkowana: 
+koszt=3 deadline=2 waga=2
+koszt=8 deadline=4 waga=2
+koszt=11 deadline=22 waga=2
+
+ uporzadkowana: 
+koszt=5 deadline=10 waga=1
+koszt=5 deadline=23 waga=3
+wywolywanie funkcji z argumentami: nieuporzadkowana: 
+koszt=8 deadline=4 waga=2
+koszt=11 deadline=22 waga=2
+
+ uporzadkowana: 
+koszt=5 deadline=10 waga=1
+koszt=5 deadline=23 waga=3
+koszt=3 deadline=2 waga=2
+wywolywanie funkcji z argumentami: nieuporzadkowana: 
+koszt=11 deadline=22 waga=2
+
+ uporzadkowana: 
+koszt=5 deadline=10 waga=1
+koszt=5 deadline=23 waga=3
+koszt=3 deadline=2 waga=2
+koszt=8 deadline=4 waga=2
+wywolywanie funkcji z argumentami: nieuporzadkowana: 
+
+ uporzadkowana: 
+koszt=5 deadline=10 waga=1
+koszt=5 deadline=23 waga=3
+koszt=3 deadline=2 waga=2
+koszt=8 deadline=4 waga=2
+koszt=11 deadline=22 waga=2
+Congratulations! Solved in 32 time units and extra costs (delay costs) of 76 time units.
+wywolywanie funkcji z argumentami: nieuporzadkowana: 
+koszt=8 deadline=4 waga=2
+
+ uporzadkowana: 
+koszt=5 deadline=10 waga=1
+koszt=5 deadline=23 waga=3
+koszt=3 deadline=2 waga=2
+koszt=11 deadline=22 waga=2
+wywolywanie funkcji z argumentami: nieuporzadkowana: 
+
+ uporzadkowana: 
+koszt=5 deadline=10 waga=1
+koszt=5 deadline=23 waga=3
+koszt=3 deadline=2 waga=2
+koszt=11 deadline=22 waga=2
+koszt=8 deadline=4 waga=2
+Congratulations! Solved in 32 time units and extra costs (delay costs) of 82 time units.
+wywolywanie funkcji z argumentami: nieuporzadkowana: 
+koszt=11 deadline=22 waga=2
+koszt=3 deadline=2 waga=2
+
+ uporzadkowana: 
+koszt=5 deadline=10 waga=1
+koszt=5 deadline=23 waga=3
+koszt=8 deadline=4 waga=2
+wywolywanie funkcji z argumentami: nieuporzadkowana: 
+koszt=3 deadline=2 waga=2
+
+ uporzadkowana: 
+koszt=5 deadline=10 waga=1
+koszt=5 deadline=23 waga=3
+koszt=8 deadline=4 waga=2
+koszt=11 deadline=22 waga=2
+wywolywanie funkcji z argumentami: nieuporzadkowana: 
+
+ uporzadkowana: 
+koszt=5 deadline=10 waga=1
+koszt=5 deadline=23 waga=3
+koszt=8 deadline=4 waga=2
+koszt=11 deadline=22 waga=2
+koszt=3 deadline=2 waga=2
+Congratulations! Solved in 32 time units and extra costs (delay costs) of 102 time units.
+wywolywanie funkcji z argumentami: nieuporzadkowana: 
+koszt=11 deadline=22 waga=2
+
+ uporzadkowana: 
+koszt=5 deadline=10 waga=1
+koszt=5 deadline=23 waga=3
+koszt=8 deadline=4 waga=2
+koszt=3 deadline=2 waga=2
+wywolywanie funkcji z argumentami: nieuporzadkowana: 
+
+ uporzadkowana: 
+koszt=5 deadline=10 waga=1
+koszt=5 deadline=23 waga=3
+koszt=8 deadline=4 waga=2
+koszt=3 deadline=2 waga=2
+koszt=11 deadline=22 waga=2
+Congratulations! Solved in 32 time units and extra costs (delay costs) of 86 time units.
+wywolywanie funkcji z argumentami: nieuporzadkowana: 
+koszt=3 deadline=2 waga=2
+koszt=8 deadline=4 waga=2
+
+ uporzadkowana: 
+koszt=5 deadline=10 waga=1
+koszt=5 deadline=23 waga=3
+koszt=11 deadline=22 waga=2
+wywolywanie funkcji z argumentami: nieuporzadkowana: 
+koszt=8 deadline=4 waga=2
+
+ uporzadkowana: 
+koszt=5 deadline=10 waga=1
+koszt=5 deadline=23 waga=3
+koszt=11 deadline=22 waga=2
+koszt=3 deadline=2 waga=2
+wywolywanie funkcji z argumentami: nieuporzadkowana: 
+
+ uporzadkowana: 
+koszt=5 deadline=10 waga=1
+koszt=5 deadline=23 waga=3
+koszt=11 deadline=22 waga=2
+koszt=3 deadline=2 waga=2
+koszt=8 deadline=4 waga=2
+Congratulations! Solved in 32 time units and extra costs (delay costs) of 100 time units.
+wywolywanie funkcji z argumentami: nieuporzadkowana: 
+koszt=3 deadline=2 waga=2
+
+ uporzadkowana: 
+koszt=5 deadline=10 waga=1
+koszt=5 deadline=23 waga=3
+koszt=11 deadline=22 waga=2
+koszt=8 deadline=4 waga=2
+wywolywanie funkcji z argumentami: nieuporzadkowana: 
+
+ uporzadkowana: 
+koszt=5 deadline=10 waga=1
+koszt=5 deadline=23 waga=3
+koszt=11 deadline=22 waga=2
+koszt=8 deadline=4 waga=2
+koszt=3 deadline=2 waga=2
+Congratulations! Solved in 32 time units and extra costs (delay costs) of 110 time units.
+wywolywanie funkcji z argumentami: nieuporzadkowana: 
+koszt=8 deadline=4 waga=2
+koszt=11 deadline=22 waga=2
+koszt=5 deadline=23 waga=3
+
+ uporzadkowana: 
+koszt=5 deadline=10 waga=1
+koszt=3 deadline=2 waga=2
+wywolywanie funkcji z argumentami: nieuporzadkowana: 
+koszt=11 deadline=22 waga=2
+koszt=5 deadline=23 waga=3
+
+ uporzadkowana: 
+koszt=5 deadline=10 waga=1
+koszt=3 deadline=2 waga=2
+koszt=8 deadline=4 waga=2
+wywolywanie funkcji z argumentami: nieuporzadkowana: 
+koszt=5 deadline=23 waga=3
+
+ uporzadkowana: 
+koszt=5 deadline=10 waga=1
+koszt=3 deadline=2 waga=2
+koszt=8 deadline=4 waga=2
+koszt=11 deadline=22 waga=2
+wywolywanie funkcji z argumentami: nieuporzadkowana: 
+
+ uporzadkowana: 
+koszt=5 deadline=10 waga=1
+koszt=3 deadline=2 waga=2
+koszt=8 deadline=4 waga=2
+koszt=11 deadline=22 waga=2
+koszt=5 deadline=23 waga=3
+Congratulations! Solved in 32 time units and extra costs (delay costs) of 73 time units.
+wywolywanie funkcji z argumentami: nieuporzadkowana: 
+koszt=11 deadline=22 waga=2
+
+ uporzadkowana: 
+koszt=5 deadline=10 waga=1
+koszt=3 deadline=2 waga=2
+koszt=8 deadline=4 waga=2
+koszt=5 deadline=23 waga=3
+wywolywanie funkcji z argumentami: nieuporzadkowana: 
+
+ uporzadkowana: 
+koszt=5 deadline=10 waga=1
+koszt=3 deadline=2 waga=2
+koszt=8 deadline=4 waga=2
+koszt=5 deadline=23 waga=3
+koszt=11 deadline=22 waga=2
+Congratulations! Solved in 32 time units and extra costs (delay costs) of 56 time units.
+wywolywanie funkcji z argumentami: nieuporzadkowana: 
+koszt=5 deadline=23 waga=3
+koszt=8 deadline=4 waga=2
+
+ uporzadkowana: 
+koszt=5 deadline=10 waga=1
+koszt=3 deadline=2 waga=2
+koszt=11 deadline=22 waga=2
+wywolywanie funkcji z argumentami: nieuporzadkowana: 
+koszt=8 deadline=4 waga=2
+
+ uporzadkowana: 
+koszt=5 deadline=10 waga=1
+koszt=3 deadline=2 waga=2
+koszt=11 deadline=22 waga=2
+koszt=5 deadline=23 waga=3
+wywolywanie funkcji z argumentami: nieuporzadkowana: 
+
+ uporzadkowana: 
+koszt=5 deadline=10 waga=1
+koszt=3 deadline=2 waga=2
+koszt=11 deadline=22 waga=2
+koszt=5 deadline=23 waga=3
+koszt=8 deadline=4 waga=2
+Congratulations! Solved in 32 time units and extra costs (delay costs) of 71 time units.
+wywolywanie funkcji z argumentami: nieuporzadkowana: 
+koszt=5 deadline=23 waga=3
+
+ uporzadkowana: 
+koszt=5 deadline=10 waga=1
+koszt=3 deadline=2 waga=2
+koszt=11 deadline=22 waga=2
+koszt=8 deadline=4 waga=2
+wywolywanie funkcji z argumentami: nieuporzadkowana: 
+
+ uporzadkowana: 
+koszt=5 deadline=10 waga=1
+koszt=3 deadline=2 waga=2
+koszt=11 deadline=22 waga=2
+koszt=8 deadline=4 waga=2
+koszt=5 deadline=23 waga=3
+Congratulations! Solved in 32 time units and extra costs (delay costs) of 85 time units.
+wywolywanie funkcji z argumentami: nieuporzadkowana: 
+koszt=8 deadline=4 waga=2
+koszt=11 deadline=22 waga=2
+
+ uporzadkowana: 
+koszt=5 deadline=10 waga=1
+koszt=3 deadline=2 waga=2
+koszt=5 deadline=23 waga=3
+wywolywanie funkcji z argumentami: nieuporzadkowana: 
+koszt=11 deadline=22 waga=2
+
+ uporzadkowana: 
+koszt=5 deadline=10 waga=1
+koszt=3 deadline=2 waga=2
+koszt=5 deadline=23 waga=3
+koszt=8 deadline=4 waga=2
+wywolywanie funkcji z argumentami: nieuporzadkowana: 
+
+ uporzadkowana: 
+koszt=5 deadline=10 waga=1
+koszt=3 deadline=2 waga=2
+koszt=5 deadline=23 waga=3
+koszt=8 deadline=4 waga=2
+koszt=11 deadline=22 waga=2
+Congratulations! Solved in 32 time units and extra costs (delay costs) of 66 time units.
+wywolywanie funkcji z argumentami: nieuporzadkowana: 
+koszt=8 deadline=4 waga=2
+
+ uporzadkowana: 
+koszt=5 deadline=10 waga=1
+koszt=3 deadline=2 waga=2
+koszt=5 deadline=23 waga=3
+koszt=11 deadline=22 waga=2
+wywolywanie funkcji z argumentami: nieuporzadkowana: 
+
+ uporzadkowana: 
+koszt=5 deadline=10 waga=1
+koszt=3 deadline=2 waga=2
+koszt=5 deadline=23 waga=3
+koszt=11 deadline=22 waga=2
+koszt=8 deadline=4 waga=2
+Congratulations! Solved in 32 time units and extra costs (delay costs) of 72 time units.
+wywolywanie funkcji z argumentami: nieuporzadkowana: 
+koszt=11 deadline=22 waga=2
+koszt=5 deadline=23 waga=3
+koszt=3 deadline=2 waga=2
+koszt=5 deadline=10 waga=1
+
+ uporzadkowana: 
+koszt=8 deadline=4 waga=2
+wywolywanie funkcji z argumentami: nieuporzadkowana: 
+koszt=5 deadline=23 waga=3
+koszt=3 deadline=2 waga=2
+koszt=5 deadline=10 waga=1
+
+ uporzadkowana: 
+koszt=8 deadline=4 waga=2
+koszt=11 deadline=22 waga=2
+wywolywanie funkcji z argumentami: nieuporzadkowana: 
+koszt=3 deadline=2 waga=2
+koszt=5 deadline=10 waga=1
+
+ uporzadkowana: 
+koszt=8 deadline=4 waga=2
+koszt=11 deadline=22 waga=2
+koszt=5 deadline=23 waga=3
+wywolywanie funkcji z argumentami: nieuporzadkowana: 
+koszt=5 deadline=10 waga=1
+
+ uporzadkowana: 
+koszt=8 deadline=4 waga=2
+koszt=11 deadline=22 waga=2
+koszt=5 deadline=23 waga=3
+koszt=3 deadline=2 waga=2
+wywolywanie funkcji z argumentami: nieuporzadkowana: 
+
+ uporzadkowana: 
+koszt=8 deadline=4 waga=2
+koszt=11 deadline=22 waga=2
+koszt=5 deadline=23 waga=3
+koszt=3 deadline=2 waga=2
+koszt=5 deadline=10 waga=1
+Congratulations! Solved in 32 time units and extra costs (delay costs) of 83 time units.
+wywolywanie funkcji z argumentami: nieuporzadkowana: 
+koszt=3 deadline=2 waga=2
+
+ uporzadkowana: 
+koszt=8 deadline=4 waga=2
+koszt=11 deadline=22 waga=2
+koszt=5 deadline=23 waga=3
+koszt=5 deadline=10 waga=1
+wywolywanie funkcji z argumentami: nieuporzadkowana: 
+
+ uporzadkowana: 
+koszt=8 deadline=4 waga=2
+koszt=11 deadline=22 waga=2
+koszt=5 deadline=23 waga=3
+koszt=5 deadline=10 waga=1
+koszt=3 deadline=2 waga=2
+Congratulations! Solved in 32 time units and extra costs (delay costs) of 90 time units.
+wywolywanie funkcji z argumentami: nieuporzadkowana: 
+koszt=5 deadline=10 waga=1
+koszt=5 deadline=23 waga=3
+
+ uporzadkowana: 
+koszt=8 deadline=4 waga=2
+koszt=11 deadline=22 waga=2
+koszt=3 deadline=2 waga=2
+wywolywanie funkcji z argumentami: nieuporzadkowana: 
+koszt=5 deadline=23 waga=3
+
+ uporzadkowana: 
+koszt=8 deadline=4 waga=2
+koszt=11 deadline=22 waga=2
+koszt=3 deadline=2 waga=2
+koszt=5 deadline=10 waga=1
+wywolywanie funkcji z argumentami: nieuporzadkowana: 
+
+ uporzadkowana: 
+koszt=8 deadline=4 waga=2
+koszt=11 deadline=22 waga=2
+koszt=3 deadline=2 waga=2
+koszt=5 deadline=10 waga=1
+koszt=5 deadline=23 waga=3
+Congratulations! Solved in 32 time units and extra costs (delay costs) of 92 time units.
+wywolywanie funkcji z argumentami: nieuporzadkowana: 
+koszt=5 deadline=10 waga=1
+
+ uporzadkowana: 
+koszt=8 deadline=4 waga=2
+koszt=11 deadline=22 waga=2
+koszt=3 deadline=2 waga=2
+koszt=5 deadline=23 waga=3
+wywolywanie funkcji z argumentami: nieuporzadkowana: 
+
+ uporzadkowana: 
+koszt=8 deadline=4 waga=2
+koszt=11 deadline=22 waga=2
+koszt=3 deadline=2 waga=2
+koszt=5 deadline=23 waga=3
+koszt=5 deadline=10 waga=1
+Congratulations! Solved in 32 time units and extra costs (delay costs) of 82 time units.
+wywolywanie funkcji z argumentami: nieuporzadkowana: 
+koszt=5 deadline=23 waga=3
+koszt=3 deadline=2 waga=2
+
+ uporzadkowana: 
+koszt=8 deadline=4 waga=2
+koszt=11 deadline=22 waga=2
+koszt=5 deadline=10 waga=1
+wywolywanie funkcji z argumentami: nieuporzadkowana: 
+koszt=3 deadline=2 waga=2
+
+ uporzadkowana: 
+koszt=8 deadline=4 waga=2
+koszt=11 deadline=22 waga=2
+koszt=5 deadline=10 waga=1
+koszt=5 deadline=23 waga=3
+wywolywanie funkcji z argumentami: nieuporzadkowana: 
+
+ uporzadkowana: 
+koszt=8 deadline=4 waga=2
+koszt=11 deadline=22 waga=2
+koszt=5 deadline=10 waga=1
+koszt=5 deadline=23 waga=3
+koszt=3 deadline=2 waga=2
+Congratulations! Solved in 32 time units and extra costs (delay costs) of 100 time units.
+wywolywanie funkcji z argumentami: nieuporzadkowana: 
+koszt=5 deadline=23 waga=3
+
+ uporzadkowana: 
+koszt=8 deadline=4 waga=2
+koszt=11 deadline=22 waga=2
+koszt=5 deadline=10 waga=1
+koszt=3 deadline=2 waga=2
+wywolywanie funkcji z argumentami: nieuporzadkowana: 
+
+ uporzadkowana: 
+koszt=8 deadline=4 waga=2
+koszt=11 deadline=22 waga=2
+koszt=5 deadline=10 waga=1
+koszt=3 deadline=2 waga=2
+koszt=5 deadline=23 waga=3
+Congratulations! Solved in 32 time units and extra costs (delay costs) of 99 time units.
+wywolywanie funkcji z argumentami: nieuporzadkowana: 
+koszt=3 deadline=2 waga=2
+koszt=5 deadline=10 waga=1
+koszt=11 deadline=22 waga=2
+
+ uporzadkowana: 
+koszt=8 deadline=4 waga=2
+koszt=5 deadline=23 waga=3
+wywolywanie funkcji z argumentami: nieuporzadkowana: 
+koszt=5 deadline=10 waga=1
+koszt=11 deadline=22 waga=2
+
+ uporzadkowana: 
+koszt=8 deadline=4 waga=2
+koszt=5 deadline=23 waga=3
+koszt=3 deadline=2 waga=2
+wywolywanie funkcji z argumentami: nieuporzadkowana: 
+koszt=11 deadline=22 waga=2
+
+ uporzadkowana: 
+koszt=8 deadline=4 waga=2
+koszt=5 deadline=23 waga=3
+koszt=3 deadline=2 waga=2
+koszt=5 deadline=10 waga=1
+wywolywanie funkcji z argumentami: nieuporzadkowana: 
+
+ uporzadkowana: 
+koszt=8 deadline=4 waga=2
+koszt=5 deadline=23 waga=3
+koszt=3 deadline=2 waga=2
+koszt=5 deadline=10 waga=1
+koszt=11 deadline=22 waga=2
+Congratulations! Solved in 32 time units and extra costs (delay costs) of 67 time units.
+wywolywanie funkcji z argumentami: nieuporzadkowana: 
+koszt=5 deadline=10 waga=1
+
+ uporzadkowana: 
+koszt=8 deadline=4 waga=2
+koszt=5 deadline=23 waga=3
+koszt=3 deadline=2 waga=2
+koszt=11 deadline=22 waga=2
+wywolywanie funkcji z argumentami: nieuporzadkowana: 
+
+ uporzadkowana: 
+koszt=8 deadline=4 waga=2
+koszt=5 deadline=23 waga=3
+koszt=3 deadline=2 waga=2
+koszt=11 deadline=22 waga=2
+koszt=5 deadline=10 waga=1
+Congratulations! Solved in 32 time units and extra costs (delay costs) of 68 time units.
+wywolywanie funkcji z argumentami: nieuporzadkowana: 
+koszt=11 deadline=22 waga=2
+koszt=3 deadline=2 waga=2
+
+ uporzadkowana: 
+koszt=8 deadline=4 waga=2
+koszt=5 deadline=23 waga=3
+koszt=5 deadline=10 waga=1
+wywolywanie funkcji z argumentami: nieuporzadkowana: 
+koszt=3 deadline=2 waga=2
+
+ uporzadkowana: 
+koszt=8 deadline=4 waga=2
+koszt=5 deadline=23 waga=3
+koszt=5 deadline=10 waga=1
+koszt=11 deadline=22 waga=2
+wywolywanie funkcji z argumentami: nieuporzadkowana: 
+
+ uporzadkowana: 
+koszt=8 deadline=4 waga=2
+koszt=5 deadline=23 waga=3
+koszt=5 deadline=10 waga=1
+koszt=11 deadline=22 waga=2
+koszt=3 deadline=2 waga=2
+Congratulations! Solved in 32 time units and extra costs (delay costs) of 90 time units.
+wywolywanie funkcji z argumentami: nieuporzadkowana: 
+koszt=11 deadline=22 waga=2
+
+ uporzadkowana: 
+koszt=8 deadline=4 waga=2
+koszt=5 deadline=23 waga=3
+koszt=5 deadline=10 waga=1
+koszt=3 deadline=2 waga=2
+wywolywanie funkcji z argumentami: nieuporzadkowana: 
+
+ uporzadkowana: 
+koszt=8 deadline=4 waga=2
+koszt=5 deadline=23 waga=3
+koszt=5 deadline=10 waga=1
+koszt=3 deadline=2 waga=2
+koszt=11 deadline=22 waga=2
+Congratulations! Solved in 32 time units and extra costs (delay costs) of 74 time units.
+wywolywanie funkcji z argumentami: nieuporzadkowana: 
+koszt=3 deadline=2 waga=2
+koszt=5 deadline=10 waga=1
+
+ uporzadkowana: 
+koszt=8 deadline=4 waga=2
+koszt=5 deadline=23 waga=3
+koszt=11 deadline=22 waga=2
+wywolywanie funkcji z argumentami: nieuporzadkowana: 
+koszt=5 deadline=10 waga=1
+
+ uporzadkowana: 
+koszt=8 deadline=4 waga=2
+koszt=5 deadline=23 waga=3
+koszt=11 deadline=22 waga=2
+koszt=3 deadline=2 waga=2
+wywolywanie funkcji z argumentami: nieuporzadkowana: 
+
+ uporzadkowana: 
+koszt=8 deadline=4 waga=2
+koszt=5 deadline=23 waga=3
+koszt=11 deadline=22 waga=2
+koszt=3 deadline=2 waga=2
+koszt=5 deadline=10 waga=1
+Congratulations! Solved in 32 time units and extra costs (delay costs) of 84 time units.
+wywolywanie funkcji z argumentami: nieuporzadkowana: 
+koszt=3 deadline=2 waga=2
+
+ uporzadkowana: 
+koszt=8 deadline=4 waga=2
+koszt=5 deadline=23 waga=3
+koszt=11 deadline=22 waga=2
+koszt=5 deadline=10 waga=1
+wywolywanie funkcji z argumentami: nieuporzadkowana: 
+
+ uporzadkowana: 
+koszt=8 deadline=4 waga=2
+koszt=5 deadline=23 waga=3
+koszt=11 deadline=22 waga=2
+koszt=5 deadline=10 waga=1
+koszt=3 deadline=2 waga=2
+Congratulations! Solved in 32 time units and extra costs (delay costs) of 91 time units.
+wywolywanie funkcji z argumentami: nieuporzadkowana: 
+koszt=5 deadline=10 waga=1
+koszt=11 deadline=22 waga=2
+koszt=5 deadline=23 waga=3
+
+ uporzadkowana: 
+koszt=8 deadline=4 waga=2
+koszt=3 deadline=2 waga=2
+wywolywanie funkcji z argumentami: nieuporzadkowana: 
+koszt=11 deadline=22 waga=2
+koszt=5 deadline=23 waga=3
+
+ uporzadkowana: 
+koszt=8 deadline=4 waga=2
+koszt=3 deadline=2 waga=2
+koszt=5 deadline=10 waga=1
+wywolywanie funkcji z argumentami: nieuporzadkowana: 
+koszt=5 deadline=23 waga=3
+
+ uporzadkowana: 
+koszt=8 deadline=4 waga=2
+koszt=3 deadline=2 waga=2
+koszt=5 deadline=10 waga=1
+koszt=11 deadline=22 waga=2
+wywolywanie funkcji z argumentami: nieuporzadkowana: 
+
+ uporzadkowana: 
+koszt=8 deadline=4 waga=2
+koszt=3 deadline=2 waga=2
+koszt=5 deadline=10 waga=1
+koszt=11 deadline=22 waga=2
+koszt=5 deadline=23 waga=3
+Congratulations! Solved in 32 time units and extra costs (delay costs) of 69 time units.
+wywolywanie funkcji z argumentami: nieuporzadkowana: 
+koszt=11 deadline=22 waga=2
+
+ uporzadkowana: 
+koszt=8 deadline=4 waga=2
+koszt=3 deadline=2 waga=2
+koszt=5 deadline=10 waga=1
+koszt=5 deadline=23 waga=3
+wywolywanie funkcji z argumentami: nieuporzadkowana: 
+
+ uporzadkowana: 
+koszt=8 deadline=4 waga=2
+koszt=3 deadline=2 waga=2
+koszt=5 deadline=10 waga=1
+koszt=5 deadline=23 waga=3
+koszt=11 deadline=22 waga=2
+Congratulations! Solved in 32 time units and extra costs (delay costs) of 52 time units.
+wywolywanie funkcji z argumentami: nieuporzadkowana: 
+koszt=5 deadline=23 waga=3
+koszt=5 deadline=10 waga=1
+
+ uporzadkowana: 
+koszt=8 deadline=4 waga=2
+koszt=3 deadline=2 waga=2
+koszt=11 deadline=22 waga=2
+wywolywanie funkcji z argumentami: nieuporzadkowana: 
+koszt=5 deadline=10 waga=1
+
+ uporzadkowana: 
+koszt=8 deadline=4 waga=2
+koszt=3 deadline=2 waga=2
+koszt=11 deadline=22 waga=2
+koszt=5 deadline=23 waga=3
+wywolywanie funkcji z argumentami: nieuporzadkowana: 
+
+ uporzadkowana: 
+koszt=8 deadline=4 waga=2
+koszt=3 deadline=2 waga=2
+koszt=11 deadline=22 waga=2
+koszt=5 deadline=23 waga=3
+koszt=5 deadline=10 waga=1
+Congratulations! Solved in 32 time units and extra costs (delay costs) of 60 time units.
+wywolywanie funkcji z argumentami: nieuporzadkowana: 
+koszt=5 deadline=23 waga=3
+
+ uporzadkowana: 
+koszt=8 deadline=4 waga=2
+koszt=3 deadline=2 waga=2
+koszt=11 deadline=22 waga=2
+koszt=5 deadline=10 waga=1
+wywolywanie funkcji z argumentami: nieuporzadkowana: 
+
+ uporzadkowana: 
+koszt=8 deadline=4 waga=2
+koszt=3 deadline=2 waga=2
+koszt=11 deadline=22 waga=2
+koszt=5 deadline=10 waga=1
+koszt=5 deadline=23 waga=3
+Congratulations! Solved in 32 time units and extra costs (delay costs) of 70 time units.
+wywolywanie funkcji z argumentami: nieuporzadkowana: 
+koszt=5 deadline=10 waga=1
+koszt=11 deadline=22 waga=2
+
+ uporzadkowana: 
+koszt=8 deadline=4 waga=2
+koszt=3 deadline=2 waga=2
+koszt=5 deadline=23 waga=3
+wywolywanie funkcji z argumentami: nieuporzadkowana: 
+koszt=11 deadline=22 waga=2
+
+ uporzadkowana: 
+koszt=8 deadline=4 waga=2
+koszt=3 deadline=2 waga=2
+koszt=5 deadline=23 waga=3
+koszt=5 deadline=10 waga=1
+wywolywanie funkcji z argumentami: nieuporzadkowana: 
+
+ uporzadkowana: 
+koszt=8 deadline=4 waga=2
+koszt=3 deadline=2 waga=2
+koszt=5 deadline=23 waga=3
+koszt=5 deadline=10 waga=1
+koszt=11 deadline=22 waga=2
+Congratulations! Solved in 32 time units and extra costs (delay costs) of 57 time units.
+wywolywanie funkcji z argumentami: nieuporzadkowana: 
+koszt=5 deadline=10 waga=1
+
+ uporzadkowana: 
+koszt=8 deadline=4 waga=2
+koszt=3 deadline=2 waga=2
+koszt=5 deadline=23 waga=3
+koszt=11 deadline=22 waga=2
+wywolywanie funkcji z argumentami: nieuporzadkowana: 
+
+ uporzadkowana: 
+koszt=8 deadline=4 waga=2
+koszt=3 deadline=2 waga=2
+koszt=5 deadline=23 waga=3
+koszt=11 deadline=22 waga=2
+koszt=5 deadline=10 waga=1
+Congratulations! Solved in 32 time units and extra costs (delay costs) of 58 time units.
+wywolywanie funkcji z argumentami: nieuporzadkowana: 
+koszt=11 deadline=22 waga=2
+koszt=5 deadline=23 waga=3
+koszt=3 deadline=2 waga=2
+
+ uporzadkowana: 
+koszt=8 deadline=4 waga=2
+koszt=5 deadline=10 waga=1
+wywolywanie funkcji z argumentami: nieuporzadkowana: 
+koszt=5 deadline=23 waga=3
+koszt=3 deadline=2 waga=2
+
+ uporzadkowana: 
+koszt=8 deadline=4 waga=2
+koszt=5 deadline=10 waga=1
+koszt=11 deadline=22 waga=2
+wywolywanie funkcji z argumentami: nieuporzadkowana: 
+koszt=3 deadline=2 waga=2
+
+ uporzadkowana: 
+koszt=8 deadline=4 waga=2
+koszt=5 deadline=10 waga=1
+koszt=11 deadline=22 waga=2
+koszt=5 deadline=23 waga=3
+wywolywanie funkcji z argumentami: nieuporzadkowana: 
+
+ uporzadkowana: 
+koszt=8 deadline=4 waga=2
+koszt=5 deadline=10 waga=1
+koszt=11 deadline=22 waga=2
+koszt=5 deadline=23 waga=3
+koszt=3 deadline=2 waga=2
+Congratulations! Solved in 32 time units and extra costs (delay costs) of 93 time units.
+wywolywanie funkcji z argumentami: nieuporzadkowana: 
+koszt=5 deadline=23 waga=3
+
+ uporzadkowana: 
+koszt=8 deadline=4 waga=2
+koszt=5 deadline=10 waga=1
+koszt=11 deadline=22 waga=2
+koszt=3 deadline=2 waga=2
+wywolywanie funkcji z argumentami: nieuporzadkowana: 
+
+ uporzadkowana: 
+koszt=8 deadline=4 waga=2
+koszt=5 deadline=10 waga=1
+koszt=11 deadline=22 waga=2
+koszt=3 deadline=2 waga=2
+koszt=5 deadline=23 waga=3
+Congratulations! Solved in 32 time units and extra costs (delay costs) of 92 time units.
+wywolywanie funkcji z argumentami: nieuporzadkowana: 
+koszt=3 deadline=2 waga=2
+koszt=11 deadline=22 waga=2
+
+ uporzadkowana: 
+koszt=8 deadline=4 waga=2
+koszt=5 deadline=10 waga=1
+koszt=5 deadline=23 waga=3
+wywolywanie funkcji z argumentami: nieuporzadkowana: 
+koszt=11 deadline=22 waga=2
+
+ uporzadkowana: 
+koszt=8 deadline=4 waga=2
+koszt=5 deadline=10 waga=1
+koszt=5 deadline=23 waga=3
+koszt=3 deadline=2 waga=2
+wywolywanie funkcji z argumentami: nieuporzadkowana: 
+
+ uporzadkowana: 
+koszt=8 deadline=4 waga=2
+koszt=5 deadline=10 waga=1
+koszt=5 deadline=23 waga=3
+koszt=3 deadline=2 waga=2
+koszt=11 deadline=22 waga=2
+Congratulations! Solved in 32 time units and extra costs (delay costs) of 69 time units.
+wywolywanie funkcji z argumentami: nieuporzadkowana: 
+koszt=3 deadline=2 waga=2
+
+ uporzadkowana: 
+koszt=8 deadline=4 waga=2
+koszt=5 deadline=10 waga=1
+koszt=5 deadline=23 waga=3
+koszt=11 deadline=22 waga=2
+wywolywanie funkcji z argumentami: nieuporzadkowana: 
+
+ uporzadkowana: 
+koszt=8 deadline=4 waga=2
+koszt=5 deadline=10 waga=1
+koszt=5 deadline=23 waga=3
+koszt=11 deadline=22 waga=2
+koszt=3 deadline=2 waga=2
+Congratulations! Solved in 32 time units and extra costs (delay costs) of 85 time units.
+wywolywanie funkcji z argumentami: nieuporzadkowana: 
+koszt=11 deadline=22 waga=2
+koszt=5 deadline=23 waga=3
+
+ uporzadkowana: 
+koszt=8 deadline=4 waga=2
+koszt=5 deadline=10 waga=1
+koszt=3 deadline=2 waga=2
+wywolywanie funkcji z argumentami: nieuporzadkowana: 
+koszt=5 deadline=23 waga=3
+
+ uporzadkowana: 
+koszt=8 deadline=4 waga=2
+koszt=5 deadline=10 waga=1
+koszt=3 deadline=2 waga=2
+koszt=11 deadline=22 waga=2
+wywolywanie funkcji z argumentami: nieuporzadkowana: 
+
+ uporzadkowana: 
+koszt=8 deadline=4 waga=2
+koszt=5 deadline=10 waga=1
+koszt=3 deadline=2 waga=2
+koszt=11 deadline=22 waga=2
+koszt=5 deadline=23 waga=3
+Congratulations! Solved in 32 time units and extra costs (delay costs) of 76 time units.
+wywolywanie funkcji z argumentami: nieuporzadkowana: 
+koszt=11 deadline=22 waga=2
+
+ uporzadkowana: 
+koszt=8 deadline=4 waga=2
+koszt=5 deadline=10 waga=1
+koszt=3 deadline=2 waga=2
+koszt=5 deadline=23 waga=3
+wywolywanie funkcji z argumentami: nieuporzadkowana: 
+
+ uporzadkowana: 
+koszt=8 deadline=4 waga=2
+koszt=5 deadline=10 waga=1
+koszt=3 deadline=2 waga=2
+koszt=5 deadline=23 waga=3
+koszt=11 deadline=22 waga=2
+Congratulations! Solved in 32 time units and extra costs (delay costs) of 59 time units.
+wywolywanie funkcji z argumentami: nieuporzadkowana: 
+koszt=5 deadline=23 waga=3
+koszt=3 deadline=2 waga=2
+koszt=5 deadline=10 waga=1
+koszt=8 deadline=4 waga=2
+
+ uporzadkowana: 
+koszt=11 deadline=22 waga=2
+wywolywanie funkcji z argumentami: nieuporzadkowana: 
+koszt=3 deadline=2 waga=2
+koszt=5 deadline=10 waga=1
+koszt=8 deadline=4 waga=2
+
+ uporzadkowana: 
+koszt=11 deadline=22 waga=2
+koszt=5 deadline=23 waga=3
+wywolywanie funkcji z argumentami: nieuporzadkowana: 
+koszt=5 deadline=10 waga=1
+koszt=8 deadline=4 waga=2
+
+ uporzadkowana: 
+koszt=11 deadline=22 waga=2
+koszt=5 deadline=23 waga=3
+koszt=3 deadline=2 waga=2
+wywolywanie funkcji z argumentami: nieuporzadkowana: 
+koszt=8 deadline=4 waga=2
+
+ uporzadkowana: 
+koszt=11 deadline=22 waga=2
+koszt=5 deadline=23 waga=3
+koszt=3 deadline=2 waga=2
+koszt=5 deadline=10 waga=1
+wywolywanie funkcji z argumentami: nieuporzadkowana: 
+
+ uporzadkowana: 
+koszt=11 deadline=22 waga=2
+koszt=5 deadline=23 waga=3
+koszt=3 deadline=2 waga=2
+koszt=5 deadline=10 waga=1
+koszt=8 deadline=4 waga=2
+Congratulations! Solved in 32 time units and extra costs (delay costs) of 104 time units.
+wywolywanie funkcji z argumentami: nieuporzadkowana: 
+koszt=5 deadline=10 waga=1
+
+ uporzadkowana: 
+koszt=11 deadline=22 waga=2
+koszt=5 deadline=23 waga=3
+koszt=3 deadline=2 waga=2
+koszt=8 deadline=4 waga=2
+wywolywanie funkcji z argumentami: nieuporzadkowana: 
+
+ uporzadkowana: 
+koszt=11 deadline=22 waga=2
+koszt=5 deadline=23 waga=3
+koszt=3 deadline=2 waga=2
+koszt=8 deadline=4 waga=2
+koszt=5 deadline=10 waga=1
+Congratulations! Solved in 32 time units and extra costs (delay costs) of 102 time units.
+wywolywanie funkcji z argumentami: nieuporzadkowana: 
+koszt=8 deadline=4 waga=2
+koszt=3 deadline=2 waga=2
+
+ uporzadkowana: 
+koszt=11 deadline=22 waga=2
+koszt=5 deadline=23 waga=3
+koszt=5 deadline=10 waga=1
+wywolywanie funkcji z argumentami: nieuporzadkowana: 
+koszt=3 deadline=2 waga=2
+
+ uporzadkowana: 
+koszt=11 deadline=22 waga=2
+koszt=5 deadline=23 waga=3
+koszt=5 deadline=10 waga=1
+koszt=8 deadline=4 waga=2
+wywolywanie funkcji z argumentami: nieuporzadkowana: 
+
+ uporzadkowana: 
+koszt=11 deadline=22 waga=2
+koszt=5 deadline=23 waga=3
+koszt=5 deadline=10 waga=1
+koszt=8 deadline=4 waga=2
+koszt=3 deadline=2 waga=2
+Congratulations! Solved in 32 time units and extra costs (delay costs) of 121 time units.
+wywolywanie funkcji z argumentami: nieuporzadkowana: 
+koszt=8 deadline=4 waga=2
+
+ uporzadkowana: 
+koszt=11 deadline=22 waga=2
+koszt=5 deadline=23 waga=3
+koszt=5 deadline=10 waga=1
+koszt=3 deadline=2 waga=2
+wywolywanie funkcji z argumentami: nieuporzadkowana: 
+
+ uporzadkowana: 
+koszt=11 deadline=22 waga=2
+koszt=5 deadline=23 waga=3
+koszt=5 deadline=10 waga=1
+koszt=3 deadline=2 waga=2
+koszt=8 deadline=4 waga=2
+Congratulations! Solved in 32 time units and extra costs (delay costs) of 111 time units.
+wywolywanie funkcji z argumentami: nieuporzadkowana: 
+koszt=3 deadline=2 waga=2
+koszt=5 deadline=10 waga=1
+
+ uporzadkowana: 
+koszt=11 deadline=22 waga=2
+koszt=5 deadline=23 waga=3
+koszt=8 deadline=4 waga=2
+wywolywanie funkcji z argumentami: nieuporzadkowana: 
+koszt=5 deadline=10 waga=1
+
+ uporzadkowana: 
+koszt=11 deadline=22 waga=2
+koszt=5 deadline=23 waga=3
+koszt=8 deadline=4 waga=2
+koszt=3 deadline=2 waga=2
+wywolywanie funkcji z argumentami: nieuporzadkowana: 
+
+ uporzadkowana: 
+koszt=11 deadline=22 waga=2
+koszt=5 deadline=23 waga=3
+koszt=8 deadline=4 waga=2
+koszt=3 deadline=2 waga=2
+koszt=5 deadline=10 waga=1
+Congratulations! Solved in 32 time units and extra costs (delay costs) of 112 time units.
+wywolywanie funkcji z argumentami: nieuporzadkowana: 
+koszt=3 deadline=2 waga=2
+
+ uporzadkowana: 
+koszt=11 deadline=22 waga=2
+koszt=5 deadline=23 waga=3
+koszt=8 deadline=4 waga=2
+koszt=5 deadline=10 waga=1
+wywolywanie funkcji z argumentami: nieuporzadkowana: 
+
+ uporzadkowana: 
+koszt=11 deadline=22 waga=2
+koszt=5 deadline=23 waga=3
+koszt=8 deadline=4 waga=2
+koszt=5 deadline=10 waga=1
+koszt=3 deadline=2 waga=2
+Congratulations! Solved in 32 time units and extra costs (delay costs) of 119 time units.
+wywolywanie funkcji z argumentami: nieuporzadkowana: 
+koszt=5 deadline=10 waga=1
+koszt=8 deadline=4 waga=2
+koszt=5 deadline=23 waga=3
+
+ uporzadkowana: 
+koszt=11 deadline=22 waga=2
+koszt=3 deadline=2 waga=2
+wywolywanie funkcji z argumentami: nieuporzadkowana: 
+koszt=8 deadline=4 waga=2
+koszt=5 deadline=23 waga=3
+
+ uporzadkowana: 
+koszt=11 deadline=22 waga=2
+koszt=3 deadline=2 waga=2
+koszt=5 deadline=10 waga=1
+wywolywanie funkcji z argumentami: nieuporzadkowana: 
+koszt=5 deadline=23 waga=3
+
+ uporzadkowana: 
+koszt=11 deadline=22 waga=2
+koszt=3 deadline=2 waga=2
+koszt=5 deadline=10 waga=1
+koszt=8 deadline=4 waga=2
+wywolywanie funkcji z argumentami: nieuporzadkowana: 
+
+ uporzadkowana: 
+koszt=11 deadline=22 waga=2
+koszt=3 deadline=2 waga=2
+koszt=5 deadline=10 waga=1
+koszt=8 deadline=4 waga=2
+koszt=5 deadline=23 waga=3
+Congratulations! Solved in 32 time units and extra costs (delay costs) of 106 time units.
+wywolywanie funkcji z argumentami: nieuporzadkowana: 
+koszt=8 deadline=4 waga=2
+
+ uporzadkowana: 
+koszt=11 deadline=22 waga=2
+koszt=3 deadline=2 waga=2
+koszt=5 deadline=10 waga=1
+koszt=5 deadline=23 waga=3
+wywolywanie funkcji z argumentami: nieuporzadkowana: 
+
+ uporzadkowana: 
+koszt=11 deadline=22 waga=2
+koszt=3 deadline=2 waga=2
+koszt=5 deadline=10 waga=1
+koszt=5 deadline=23 waga=3
+koszt=8 deadline=4 waga=2
+Congratulations! Solved in 32 time units and extra costs (delay costs) of 92 time units.
+wywolywanie funkcji z argumentami: nieuporzadkowana: 
+koszt=5 deadline=23 waga=3
+koszt=5 deadline=10 waga=1
+
+ uporzadkowana: 
+koszt=11 deadline=22 waga=2
+koszt=3 deadline=2 waga=2
+koszt=8 deadline=4 waga=2
+wywolywanie funkcji z argumentami: nieuporzadkowana: 
+koszt=5 deadline=10 waga=1
+
+ uporzadkowana: 
+koszt=11 deadline=22 waga=2
+koszt=3 deadline=2 waga=2
+koszt=8 deadline=4 waga=2
+koszt=5 deadline=23 waga=3
+wywolywanie funkcji z argumentami: nieuporzadkowana: 
+
+ uporzadkowana: 
+koszt=11 deadline=22 waga=2
+koszt=3 deadline=2 waga=2
+koszt=8 deadline=4 waga=2
+koszt=5 deadline=23 waga=3
+koszt=5 deadline=10 waga=1
+Congratulations! Solved in 32 time units and extra costs (delay costs) of 94 time units.
+wywolywanie funkcji z argumentami: nieuporzadkowana: 
+koszt=5 deadline=23 waga=3
+
+ uporzadkowana: 
+koszt=11 deadline=22 waga=2
+koszt=3 deadline=2 waga=2
+koszt=8 deadline=4 waga=2
+koszt=5 deadline=10 waga=1
+wywolywanie funkcji z argumentami: nieuporzadkowana: 
+
+ uporzadkowana: 
+koszt=11 deadline=22 waga=2
+koszt=3 deadline=2 waga=2
+koszt=8 deadline=4 waga=2
+koszt=5 deadline=10 waga=1
+koszt=5 deadline=23 waga=3
+Congratulations! Solved in 32 time units and extra costs (delay costs) of 104 time units.
+wywolywanie funkcji z argumentami: nieuporzadkowana: 
+koszt=5 deadline=10 waga=1
+koszt=8 deadline=4 waga=2
+
+ uporzadkowana: 
+koszt=11 deadline=22 waga=2
+koszt=3 deadline=2 waga=2
+koszt=5 deadline=23 waga=3
+wywolywanie funkcji z argumentami: nieuporzadkowana: 
+koszt=8 deadline=4 waga=2
+
+ uporzadkowana: 
+koszt=11 deadline=22 waga=2
+koszt=3 deadline=2 waga=2
+koszt=5 deadline=23 waga=3
+koszt=5 deadline=10 waga=1
+wywolywanie funkcji z argumentami: nieuporzadkowana: 
+
+ uporzadkowana: 
+koszt=11 deadline=22 waga=2
+koszt=3 deadline=2 waga=2
+koszt=5 deadline=23 waga=3
+koszt=5 deadline=10 waga=1
+koszt=8 deadline=4 waga=2
+Congratulations! Solved in 32 time units and extra costs (delay costs) of 94 time units.
+wywolywanie funkcji z argumentami: nieuporzadkowana: 
+koszt=5 deadline=10 waga=1
+
+ uporzadkowana: 
+koszt=11 deadline=22 waga=2
+koszt=3 deadline=2 waga=2
+koszt=5 deadline=23 waga=3
+koszt=8 deadline=4 waga=2
+wywolywanie funkcji z argumentami: nieuporzadkowana: 
+
+ uporzadkowana: 
+koszt=11 deadline=22 waga=2
+koszt=3 deadline=2 waga=2
+koszt=5 deadline=23 waga=3
+koszt=8 deadline=4 waga=2
+koszt=5 deadline=10 waga=1
+Congratulations! Solved in 32 time units and extra costs (delay costs) of 92 time units.
+wywolywanie funkcji z argumentami: nieuporzadkowana: 
+koszt=8 deadline=4 waga=2
+koszt=5 deadline=23 waga=3
+koszt=3 deadline=2 waga=2
+
+ uporzadkowana: 
+koszt=11 deadline=22 waga=2
+koszt=5 deadline=10 waga=1
+wywolywanie funkcji z argumentami: nieuporzadkowana: 
+koszt=5 deadline=23 waga=3
+koszt=3 deadline=2 waga=2
+
+ uporzadkowana: 
+koszt=11 deadline=22 waga=2
+koszt=5 deadline=10 waga=1
+koszt=8 deadline=4 waga=2
+wywolywanie funkcji z argumentami: nieuporzadkowana: 
+koszt=3 deadline=2 waga=2
+
+ uporzadkowana: 
+koszt=11 deadline=22 waga=2
+koszt=5 deadline=10 waga=1
+koszt=8 deadline=4 waga=2
+koszt=5 deadline=23 waga=3
+wywolywanie funkcji z argumentami: nieuporzadkowana: 
+
+ uporzadkowana: 
+koszt=11 deadline=22 waga=2
+koszt=5 deadline=10 waga=1
+koszt=8 deadline=4 waga=2
+koszt=5 deadline=23 waga=3
+koszt=3 deadline=2 waga=2
+Congratulations! Solved in 32 time units and extra costs (delay costs) of 124 time units.
+wywolywanie funkcji z argumentami: nieuporzadkowana: 
+koszt=5 deadline=23 waga=3
+
+ uporzadkowana: 
+koszt=11 deadline=22 waga=2
+koszt=5 deadline=10 waga=1
+koszt=8 deadline=4 waga=2
+koszt=3 deadline=2 waga=2
+wywolywanie funkcji z argumentami: nieuporzadkowana: 
+
+ uporzadkowana: 
+koszt=11 deadline=22 waga=2
+koszt=5 deadline=10 waga=1
+koszt=8 deadline=4 waga=2
+koszt=3 deadline=2 waga=2
+koszt=5 deadline=23 waga=3
+Congratulations! Solved in 32 time units and extra costs (delay costs) of 123 time units.
+wywolywanie funkcji z argumentami: nieuporzadkowana: 
+koszt=3 deadline=2 waga=2
+koszt=8 deadline=4 waga=2
+
+ uporzadkowana: 
+koszt=11 deadline=22 waga=2
+koszt=5 deadline=10 waga=1
+koszt=5 deadline=23 waga=3
+wywolywanie funkcji z argumentami: nieuporzadkowana: 
+koszt=8 deadline=4 waga=2
+
+ uporzadkowana: 
+koszt=11 deadline=22 waga=2
+koszt=5 deadline=10 waga=1
+koszt=5 deadline=23 waga=3
+koszt=3 deadline=2 waga=2
+wywolywanie funkcji z argumentami: nieuporzadkowana: 
+
+ uporzadkowana: 
+koszt=11 deadline=22 waga=2
+koszt=5 deadline=10 waga=1
+koszt=5 deadline=23 waga=3
+koszt=3 deadline=2 waga=2
+koszt=8 deadline=4 waga=2
+Congratulations! Solved in 32 time units and extra costs (delay costs) of 106 time units.
+wywolywanie funkcji z argumentami: nieuporzadkowana: 
+koszt=3 deadline=2 waga=2
+
+ uporzadkowana: 
+koszt=11 deadline=22 waga=2
+koszt=5 deadline=10 waga=1
+koszt=5 deadline=23 waga=3
+koszt=8 deadline=4 waga=2
+wywolywanie funkcji z argumentami: nieuporzadkowana: 
+
+ uporzadkowana: 
+koszt=11 deadline=22 waga=2
+koszt=5 deadline=10 waga=1
+koszt=5 deadline=23 waga=3
+koszt=8 deadline=4 waga=2
+koszt=3 deadline=2 waga=2
+Congratulations! Solved in 32 time units and extra costs (delay costs) of 116 time units.
+wywolywanie funkcji z argumentami: nieuporzadkowana: 
+koszt=8 deadline=4 waga=2
+koszt=5 deadline=23 waga=3
+
+ uporzadkowana: 
+koszt=11 deadline=22 waga=2
+koszt=5 deadline=10 waga=1
+koszt=3 deadline=2 waga=2
+wywolywanie funkcji z argumentami: nieuporzadkowana: 
+koszt=5 deadline=23 waga=3
+
+ uporzadkowana: 
+koszt=11 deadline=22 waga=2
+koszt=5 deadline=10 waga=1
+koszt=3 deadline=2 waga=2
+koszt=8 deadline=4 waga=2
+wywolywanie funkcji z argumentami: nieuporzadkowana: 
+
+ uporzadkowana: 
+koszt=11 deadline=22 waga=2
+koszt=5 deadline=10 waga=1
+koszt=3 deadline=2 waga=2
+koszt=8 deadline=4 waga=2
+koszt=5 deadline=23 waga=3
+Congratulations! Solved in 32 time units and extra costs (delay costs) of 113 time units.
+wywolywanie funkcji z argumentami: nieuporzadkowana: 
+koszt=8 deadline=4 waga=2
+
+ uporzadkowana: 
+koszt=11 deadline=22 waga=2
+koszt=5 deadline=10 waga=1
+koszt=3 deadline=2 waga=2
+koszt=5 deadline=23 waga=3
+wywolywanie funkcji z argumentami: nieuporzadkowana: 
+
+ uporzadkowana: 
+koszt=11 deadline=22 waga=2
+koszt=5 deadline=10 waga=1
+koszt=3 deadline=2 waga=2
+koszt=5 deadline=23 waga=3
+koszt=8 deadline=4 waga=2
+Congratulations! Solved in 32 time units and extra costs (delay costs) of 99 time units.
+wywolywanie funkcji z argumentami: nieuporzadkowana: 
+koszt=5 deadline=23 waga=3
+koszt=3 deadline=2 waga=2
+koszt=5 deadline=10 waga=1
+
+ uporzadkowana: 
+koszt=11 deadline=22 waga=2
+koszt=8 deadline=4 waga=2
+wywolywanie funkcji z argumentami: nieuporzadkowana: 
+koszt=3 deadline=2 waga=2
+koszt=5 deadline=10 waga=1
+
+ uporzadkowana: 
+koszt=11 deadline=22 waga=2
+koszt=8 deadline=4 waga=2
+koszt=5 deadline=23 waga=3
+wywolywanie funkcji z argumentami: nieuporzadkowana: 
+koszt=5 deadline=10 waga=1
+
+ uporzadkowana: 
+koszt=11 deadline=22 waga=2
+koszt=8 deadline=4 waga=2
+koszt=5 deadline=23 waga=3
+koszt=3 deadline=2 waga=2
+wywolywanie funkcji z argumentami: nieuporzadkowana: 
+
+ uporzadkowana: 
+koszt=11 deadline=22 waga=2
+koszt=8 deadline=4 waga=2
+koszt=5 deadline=23 waga=3
+koszt=3 deadline=2 waga=2
+koszt=5 deadline=10 waga=1
+Congratulations! Solved in 32 time units and extra costs (delay costs) of 105 time units.
+wywolywanie funkcji z argumentami: nieuporzadkowana: 
+koszt=3 deadline=2 waga=2
+
+ uporzadkowana: 
+koszt=11 deadline=22 waga=2
+koszt=8 deadline=4 waga=2
+koszt=5 deadline=23 waga=3
+koszt=5 deadline=10 waga=1
+wywolywanie funkcji z argumentami: nieuporzadkowana: 
+
+ uporzadkowana: 
+koszt=11 deadline=22 waga=2
+koszt=8 deadline=4 waga=2
+koszt=5 deadline=23 waga=3
+koszt=5 deadline=10 waga=1
+koszt=3 deadline=2 waga=2
+Congratulations! Solved in 32 time units and extra costs (delay costs) of 112 time units.
+wywolywanie funkcji z argumentami: nieuporzadkowana: 
+koszt=5 deadline=10 waga=1
+koszt=5 deadline=23 waga=3
+
+ uporzadkowana: 
+koszt=11 deadline=22 waga=2
+koszt=8 deadline=4 waga=2
+koszt=3 deadline=2 waga=2
+wywolywanie funkcji z argumentami: nieuporzadkowana: 
+koszt=5 deadline=23 waga=3
+
+ uporzadkowana: 
+koszt=11 deadline=22 waga=2
+koszt=8 deadline=4 waga=2
+koszt=3 deadline=2 waga=2
+koszt=5 deadline=10 waga=1
+wywolywanie funkcji z argumentami: nieuporzadkowana: 
+
+ uporzadkowana: 
+koszt=11 deadline=22 waga=2
+koszt=8 deadline=4 waga=2
+koszt=3 deadline=2 waga=2
+koszt=5 deadline=10 waga=1
+koszt=5 deadline=23 waga=3
+Congratulations! Solved in 32 time units and extra costs (delay costs) of 114 time units.
+wywolywanie funkcji z argumentami: nieuporzadkowana: 
+koszt=5 deadline=10 waga=1
+
+ uporzadkowana: 
+koszt=11 deadline=22 waga=2
+koszt=8 deadline=4 waga=2
+koszt=3 deadline=2 waga=2
+koszt=5 deadline=23 waga=3
+wywolywanie funkcji z argumentami: nieuporzadkowana: 
+
+ uporzadkowana: 
+koszt=11 deadline=22 waga=2
+koszt=8 deadline=4 waga=2
+koszt=3 deadline=2 waga=2
+koszt=5 deadline=23 waga=3
+koszt=5 deadline=10 waga=1
+Congratulations! Solved in 32 time units and extra costs (delay costs) of 104 time units.
+wywolywanie funkcji z argumentami: nieuporzadkowana: 
+koszt=5 deadline=23 waga=3
+koszt=3 deadline=2 waga=2
+
+ uporzadkowana: 
+koszt=11 deadline=22 waga=2
+koszt=8 deadline=4 waga=2
+koszt=5 deadline=10 waga=1
+wywolywanie funkcji z argumentami: nieuporzadkowana: 
+koszt=3 deadline=2 waga=2
+
+ uporzadkowana: 
+koszt=11 deadline=22 waga=2
+koszt=8 deadline=4 waga=2
+koszt=5 deadline=10 waga=1
+koszt=5 deadline=23 waga=3
+wywolywanie funkcji z argumentami: nieuporzadkowana: 
+
+ uporzadkowana: 
+koszt=11 deadline=22 waga=2
+koszt=8 deadline=4 waga=2
+koszt=5 deadline=10 waga=1
+koszt=5 deadline=23 waga=3
+koszt=3 deadline=2 waga=2
+Congratulations! Solved in 32 time units and extra costs (delay costs) of 122 time units.
+wywolywanie funkcji z argumentami: nieuporzadkowana: 
+koszt=5 deadline=23 waga=3
+
+ uporzadkowana: 
+koszt=11 deadline=22 waga=2
+koszt=8 deadline=4 waga=2
+koszt=5 deadline=10 waga=1
+koszt=3 deadline=2 waga=2
+wywolywanie funkcji z argumentami: nieuporzadkowana: 
+
+ uporzadkowana: 
+koszt=11 deadline=22 waga=2
+koszt=8 deadline=4 waga=2
+koszt=5 deadline=10 waga=1
+koszt=3 deadline=2 waga=2
+koszt=5 deadline=23 waga=3
+Congratulations! Solved in 32 time units and extra costs (delay costs) of 121 time units.
+wywolywanie funkcji z argumentami: nieuporzadkowana: 
+koszt=3 deadline=2 waga=2
+koszt=5 deadline=10 waga=1
+koszt=8 deadline=4 waga=2
+koszt=11 deadline=22 waga=2
+
+ uporzadkowana: 
+koszt=5 deadline=23 waga=3
+wywolywanie funkcji z argumentami: nieuporzadkowana: 
+koszt=5 deadline=10 waga=1
+koszt=8 deadline=4 waga=2
+koszt=11 deadline=22 waga=2
+
+ uporzadkowana: 
+koszt=5 deadline=23 waga=3
+koszt=3 deadline=2 waga=2
+wywolywanie funkcji z argumentami: nieuporzadkowana: 
+koszt=8 deadline=4 waga=2
+koszt=11 deadline=22 waga=2
+
+ uporzadkowana: 
+koszt=5 deadline=23 waga=3
+koszt=3 deadline=2 waga=2
+koszt=5 deadline=10 waga=1
+wywolywanie funkcji z argumentami: nieuporzadkowana: 
+koszt=11 deadline=22 waga=2
+
+ uporzadkowana: 
+koszt=5 deadline=23 waga=3
+koszt=3 deadline=2 waga=2
+koszt=5 deadline=10 waga=1
+koszt=8 deadline=4 waga=2
+wywolywanie funkcji z argumentami: nieuporzadkowana: 
+
+ uporzadkowana: 
+koszt=5 deadline=23 waga=3
+koszt=3 deadline=2 waga=2
+koszt=5 deadline=10 waga=1
+koszt=8 deadline=4 waga=2
+koszt=11 deadline=22 waga=2
+Congratulations! Solved in 32 time units and extra costs (delay costs) of 69 time units.
+wywolywanie funkcji z argumentami: nieuporzadkowana: 
+koszt=8 deadline=4 waga=2
+
+ uporzadkowana: 
+koszt=5 deadline=23 waga=3
+koszt=3 deadline=2 waga=2
+koszt=5 deadline=10 waga=1
+koszt=11 deadline=22 waga=2
+wywolywanie funkcji z argumentami: nieuporzadkowana: 
+
+ uporzadkowana: 
+koszt=5 deadline=23 waga=3
+koszt=3 deadline=2 waga=2
+koszt=5 deadline=10 waga=1
+koszt=11 deadline=22 waga=2
+koszt=8 deadline=4 waga=2
+Congratulations! Solved in 32 time units and extra costs (delay costs) of 75 time units.
+wywolywanie funkcji z argumentami: nieuporzadkowana: 
+koszt=11 deadline=22 waga=2
+koszt=5 deadline=10 waga=1
+
+ uporzadkowana: 
+koszt=5 deadline=23 waga=3
+koszt=3 deadline=2 waga=2
+koszt=8 deadline=4 waga=2
+wywolywanie funkcji z argumentami: nieuporzadkowana: 
+koszt=5 deadline=10 waga=1
+
+ uporzadkowana: 
+koszt=5 deadline=23 waga=3
+koszt=3 deadline=2 waga=2
+koszt=8 deadline=4 waga=2
+koszt=11 deadline=22 waga=2
+wywolywanie funkcji z argumentami: nieuporzadkowana: 
+
+ uporzadkowana: 
+koszt=5 deadline=23 waga=3
+koszt=3 deadline=2 waga=2
+koszt=8 deadline=4 waga=2
+koszt=11 deadline=22 waga=2
+koszt=5 deadline=10 waga=1
+Congratulations! Solved in 32 time units and extra costs (delay costs) of 68 time units.
+wywolywanie funkcji z argumentami: nieuporzadkowana: 
+koszt=11 deadline=22 waga=2
+
+ uporzadkowana: 
+koszt=5 deadline=23 waga=3
+koszt=3 deadline=2 waga=2
+koszt=8 deadline=4 waga=2
+koszt=5 deadline=10 waga=1
+wywolywanie funkcji z argumentami: nieuporzadkowana: 
+
+ uporzadkowana: 
+koszt=5 deadline=23 waga=3
+koszt=3 deadline=2 waga=2
+koszt=8 deadline=4 waga=2
+koszt=5 deadline=10 waga=1
+koszt=11 deadline=22 waga=2
+Congratulations! Solved in 32 time units and extra costs (delay costs) of 67 time units.
+wywolywanie funkcji z argumentami: nieuporzadkowana: 
+koszt=5 deadline=10 waga=1
+koszt=8 deadline=4 waga=2
+
+ uporzadkowana: 
+koszt=5 deadline=23 waga=3
+koszt=3 deadline=2 waga=2
+koszt=11 deadline=22 waga=2
+wywolywanie funkcji z argumentami: nieuporzadkowana: 
+koszt=8 deadline=4 waga=2
+
+ uporzadkowana: 
+koszt=5 deadline=23 waga=3
+koszt=3 deadline=2 waga=2
+koszt=11 deadline=22 waga=2
+koszt=5 deadline=10 waga=1
+wywolywanie funkcji z argumentami: nieuporzadkowana: 
+
+ uporzadkowana: 
+koszt=5 deadline=23 waga=3
+koszt=3 deadline=2 waga=2
+koszt=11 deadline=22 waga=2
+koszt=5 deadline=10 waga=1
+koszt=8 deadline=4 waga=2
+Congratulations! Solved in 32 time units and extra costs (delay costs) of 82 time units.
+wywolywanie funkcji z argumentami: nieuporzadkowana: 
+koszt=5 deadline=10 waga=1
+
+ uporzadkowana: 
+koszt=5 deadline=23 waga=3
+koszt=3 deadline=2 waga=2
+koszt=11 deadline=22 waga=2
+koszt=8 deadline=4 waga=2
+wywolywanie funkcji z argumentami: nieuporzadkowana: 
+
+ uporzadkowana: 
+koszt=5 deadline=23 waga=3
+koszt=3 deadline=2 waga=2
+koszt=11 deadline=22 waga=2
+koszt=8 deadline=4 waga=2
+koszt=5 deadline=10 waga=1
+Congratulations! Solved in 32 time units and extra costs (delay costs) of 80 time units.
+wywolywanie funkcji z argumentami: nieuporzadkowana: 
+koszt=8 deadline=4 waga=2
+koszt=11 deadline=22 waga=2
+koszt=3 deadline=2 waga=2
+
+ uporzadkowana: 
+koszt=5 deadline=23 waga=3
+koszt=5 deadline=10 waga=1
+wywolywanie funkcji z argumentami: nieuporzadkowana: 
+koszt=11 deadline=22 waga=2
+koszt=3 deadline=2 waga=2
+
+ uporzadkowana: 
+koszt=5 deadline=23 waga=3
+koszt=5 deadline=10 waga=1
+koszt=8 deadline=4 waga=2
+wywolywanie funkcji z argumentami: nieuporzadkowana: 
+koszt=3 deadline=2 waga=2
+
+ uporzadkowana: 
+koszt=5 deadline=23 waga=3
+koszt=5 deadline=10 waga=1
+koszt=8 deadline=4 waga=2
+koszt=11 deadline=22 waga=2
+wywolywanie funkcji z argumentami: nieuporzadkowana: 
+
+ uporzadkowana: 
+koszt=5 deadline=23 waga=3
+koszt=5 deadline=10 waga=1
+koszt=8 deadline=4 waga=2
+koszt=11 deadline=22 waga=2
+koszt=3 deadline=2 waga=2
+Congratulations! Solved in 32 time units and extra costs (delay costs) of 102 time units.
+wywolywanie funkcji z argumentami: nieuporzadkowana: 
+koszt=11 deadline=22 waga=2
+
+ uporzadkowana: 
+koszt=5 deadline=23 waga=3
+koszt=5 deadline=10 waga=1
+koszt=8 deadline=4 waga=2
+koszt=3 deadline=2 waga=2
+wywolywanie funkcji z argumentami: nieuporzadkowana: 
+
+ uporzadkowana: 
+koszt=5 deadline=23 waga=3
+koszt=5 deadline=10 waga=1
+koszt=8 deadline=4 waga=2
+koszt=3 deadline=2 waga=2
+koszt=11 deadline=22 waga=2
+Congratulations! Solved in 32 time units and extra costs (delay costs) of 86 time units.
+wywolywanie funkcji z argumentami: nieuporzadkowana: 
+koszt=3 deadline=2 waga=2
+koszt=8 deadline=4 waga=2
+
+ uporzadkowana: 
+koszt=5 deadline=23 waga=3
+koszt=5 deadline=10 waga=1
+koszt=11 deadline=22 waga=2
+wywolywanie funkcji z argumentami: nieuporzadkowana: 
+koszt=8 deadline=4 waga=2
+
+ uporzadkowana: 
+koszt=5 deadline=23 waga=3
+koszt=5 deadline=10 waga=1
+koszt=11 deadline=22 waga=2
+koszt=3 deadline=2 waga=2
+wywolywanie funkcji z argumentami: nieuporzadkowana: 
+
+ uporzadkowana: 
+koszt=5 deadline=23 waga=3
+koszt=5 deadline=10 waga=1
+koszt=11 deadline=22 waga=2
+koszt=3 deadline=2 waga=2
+koszt=8 deadline=4 waga=2
+Congratulations! Solved in 32 time units and extra costs (delay costs) of 100 time units.
+wywolywanie funkcji z argumentami: nieuporzadkowana: 
+koszt=3 deadline=2 waga=2
+
+ uporzadkowana: 
+koszt=5 deadline=23 waga=3
+koszt=5 deadline=10 waga=1
+koszt=11 deadline=22 waga=2
+koszt=8 deadline=4 waga=2
+wywolywanie funkcji z argumentami: nieuporzadkowana: 
+
+ uporzadkowana: 
+koszt=5 deadline=23 waga=3
+koszt=5 deadline=10 waga=1
+koszt=11 deadline=22 waga=2
+koszt=8 deadline=4 waga=2
+koszt=3 deadline=2 waga=2
+Congratulations! Solved in 32 time units and extra costs (delay costs) of 110 time units.
+wywolywanie funkcji z argumentami: nieuporzadkowana: 
+koszt=8 deadline=4 waga=2
+koszt=11 deadline=22 waga=2
+
+ uporzadkowana: 
+koszt=5 deadline=23 waga=3
+koszt=5 deadline=10 waga=1
+koszt=3 deadline=2 waga=2
+wywolywanie funkcji z argumentami: nieuporzadkowana: 
+koszt=11 deadline=22 waga=2
+
+ uporzadkowana: 
+koszt=5 deadline=23 waga=3
+koszt=5 deadline=10 waga=1
+koszt=3 deadline=2 waga=2
+koszt=8 deadline=4 waga=2
+wywolywanie funkcji z argumentami: nieuporzadkowana: 
+
+ uporzadkowana: 
+koszt=5 deadline=23 waga=3
+koszt=5 deadline=10 waga=1
+koszt=3 deadline=2 waga=2
+koszt=8 deadline=4 waga=2
+koszt=11 deadline=22 waga=2
+Congratulations! Solved in 32 time units and extra costs (delay costs) of 76 time units.
+wywolywanie funkcji z argumentami: nieuporzadkowana: 
+koszt=8 deadline=4 waga=2
+
+ uporzadkowana: 
+koszt=5 deadline=23 waga=3
+koszt=5 deadline=10 waga=1
+koszt=3 deadline=2 waga=2
+koszt=11 deadline=22 waga=2
+wywolywanie funkcji z argumentami: nieuporzadkowana: 
+
+ uporzadkowana: 
+koszt=5 deadline=23 waga=3
+koszt=5 deadline=10 waga=1
+koszt=3 deadline=2 waga=2
+koszt=11 deadline=22 waga=2
+koszt=8 deadline=4 waga=2
+Congratulations! Solved in 32 time units and extra costs (delay costs) of 82 time units.
+wywolywanie funkcji z argumentami: nieuporzadkowana: 
+koszt=11 deadline=22 waga=2
+koszt=3 deadline=2 waga=2
+koszt=5 deadline=10 waga=1
+
+ uporzadkowana: 
+koszt=5 deadline=23 waga=3
+koszt=8 deadline=4 waga=2
+wywolywanie funkcji z argumentami: nieuporzadkowana: 
+koszt=3 deadline=2 waga=2
+koszt=5 deadline=10 waga=1
+
+ uporzadkowana: 
+koszt=5 deadline=23 waga=3
+koszt=8 deadline=4 waga=2
+koszt=11 deadline=22 waga=2
+wywolywanie funkcji z argumentami: nieuporzadkowana: 
+koszt=5 deadline=10 waga=1
+
+ uporzadkowana: 
+koszt=5 deadline=23 waga=3
+koszt=8 deadline=4 waga=2
+koszt=11 deadline=22 waga=2
+koszt=3 deadline=2 waga=2
+wywolywanie funkcji z argumentami: nieuporzadkowana: 
+
+ uporzadkowana: 
+koszt=5 deadline=23 waga=3
+koszt=8 deadline=4 waga=2
+koszt=11 deadline=22 waga=2
+koszt=3 deadline=2 waga=2
+koszt=5 deadline=10 waga=1
+Congratulations! Solved in 32 time units and extra costs (delay costs) of 94 time units.
+wywolywanie funkcji z argumentami: nieuporzadkowana: 
+koszt=3 deadline=2 waga=2
+
+ uporzadkowana: 
+koszt=5 deadline=23 waga=3
+koszt=8 deadline=4 waga=2
+koszt=11 deadline=22 waga=2
+koszt=5 deadline=10 waga=1
+wywolywanie funkcji z argumentami: nieuporzadkowana: 
+
+ uporzadkowana: 
+koszt=5 deadline=23 waga=3
+koszt=8 deadline=4 waga=2
+koszt=11 deadline=22 waga=2
+koszt=5 deadline=10 waga=1
+koszt=3 deadline=2 waga=2
+Congratulations! Solved in 32 time units and extra costs (delay costs) of 101 time units.
+wywolywanie funkcji z argumentami: nieuporzadkowana: 
+koszt=5 deadline=10 waga=1
+koszt=11 deadline=22 waga=2
+
+ uporzadkowana: 
+koszt=5 deadline=23 waga=3
+koszt=8 deadline=4 waga=2
+koszt=3 deadline=2 waga=2
+wywolywanie funkcji z argumentami: nieuporzadkowana: 
+koszt=11 deadline=22 waga=2
+
+ uporzadkowana: 
+koszt=5 deadline=23 waga=3
+koszt=8 deadline=4 waga=2
+koszt=3 deadline=2 waga=2
+koszt=5 deadline=10 waga=1
+wywolywanie funkcji z argumentami: nieuporzadkowana: 
+
+ uporzadkowana: 
+koszt=5 deadline=23 waga=3
+koszt=8 deadline=4 waga=2
+koszt=3 deadline=2 waga=2
+koszt=5 deadline=10 waga=1
+koszt=11 deadline=22 waga=2
+Congratulations! Solved in 32 time units and extra costs (delay costs) of 77 time units.
+wywolywanie funkcji z argumentami: nieuporzadkowana: 
+koszt=5 deadline=10 waga=1
+
+ uporzadkowana: 
+koszt=5 deadline=23 waga=3
+koszt=8 deadline=4 waga=2
+koszt=3 deadline=2 waga=2
+koszt=11 deadline=22 waga=2
+wywolywanie funkcji z argumentami: nieuporzadkowana: 
+
+ uporzadkowana: 
+koszt=5 deadline=23 waga=3
+koszt=8 deadline=4 waga=2
+koszt=3 deadline=2 waga=2
+koszt=11 deadline=22 waga=2
+koszt=5 deadline=10 waga=1
+Congratulations! Solved in 32 time units and extra costs (delay costs) of 78 time units.
+wywolywanie funkcji z argumentami: nieuporzadkowana: 
+koszt=11 deadline=22 waga=2
+koszt=3 deadline=2 waga=2
+
+ uporzadkowana: 
+koszt=5 deadline=23 waga=3
+koszt=8 deadline=4 waga=2
+koszt=5 deadline=10 waga=1
+wywolywanie funkcji z argumentami: nieuporzadkowana: 
+koszt=3 deadline=2 waga=2
+
+ uporzadkowana: 
+koszt=5 deadline=23 waga=3
+koszt=8 deadline=4 waga=2
+koszt=5 deadline=10 waga=1
+koszt=11 deadline=22 waga=2
+wywolywanie funkcji z argumentami: nieuporzadkowana: 
+
+ uporzadkowana: 
+koszt=5 deadline=23 waga=3
+koszt=8 deadline=4 waga=2
+koszt=5 deadline=10 waga=1
+koszt=11 deadline=22 waga=2
+koszt=3 deadline=2 waga=2
+Congratulations! Solved in 32 time units and extra costs (delay costs) of 100 time units.
+wywolywanie funkcji z argumentami: nieuporzadkowana: 
+koszt=11 deadline=22 waga=2
+
+ uporzadkowana: 
+koszt=5 deadline=23 waga=3
+koszt=8 deadline=4 waga=2
+koszt=5 deadline=10 waga=1
+koszt=3 deadline=2 waga=2
+wywolywanie funkcji z argumentami: nieuporzadkowana: 
+
+ uporzadkowana: 
+koszt=5 deadline=23 waga=3
+koszt=8 deadline=4 waga=2
+koszt=5 deadline=10 waga=1
+koszt=3 deadline=2 waga=2
+koszt=11 deadline=22 waga=2
+Congratulations! Solved in 32 time units and extra costs (delay costs) of 84 time units.
+wywolywanie funkcji z argumentami: nieuporzadkowana: 
+koszt=3 deadline=2 waga=2
+koszt=5 deadline=10 waga=1
+koszt=8 deadline=4 waga=2
+
+ uporzadkowana: 
+koszt=5 deadline=23 waga=3
+koszt=11 deadline=22 waga=2
+wywolywanie funkcji z argumentami: nieuporzadkowana: 
+koszt=5 deadline=10 waga=1
+koszt=8 deadline=4 waga=2
+
+ uporzadkowana: 
+koszt=5 deadline=23 waga=3
+koszt=11 deadline=22 waga=2
+koszt=3 deadline=2 waga=2
+wywolywanie funkcji z argumentami: nieuporzadkowana: 
+koszt=8 deadline=4 waga=2
+
+ uporzadkowana: 
+koszt=5 deadline=23 waga=3
+koszt=11 deadline=22 waga=2
+koszt=3 deadline=2 waga=2
+koszt=5 deadline=10 waga=1
+wywolywanie funkcji z argumentami: nieuporzadkowana: 
+
+ uporzadkowana: 
+koszt=5 deadline=23 waga=3
+koszt=11 deadline=22 waga=2
+koszt=3 deadline=2 waga=2
+koszt=5 deadline=10 waga=1
+koszt=8 deadline=4 waga=2
+Congratulations! Solved in 32 time units and extra costs (delay costs) of 104 time units.
+wywolywanie funkcji z argumentami: nieuporzadkowana: 
+koszt=5 deadline=10 waga=1
+
+ uporzadkowana: 
+koszt=5 deadline=23 waga=3
+koszt=11 deadline=22 waga=2
+koszt=3 deadline=2 waga=2
+koszt=8 deadline=4 waga=2
+wywolywanie funkcji z argumentami: nieuporzadkowana: 
+
+ uporzadkowana: 
+koszt=5 deadline=23 waga=3
+koszt=11 deadline=22 waga=2
+koszt=3 deadline=2 waga=2
+koszt=8 deadline=4 waga=2
+koszt=5 deadline=10 waga=1
+Congratulations! Solved in 32 time units and extra costs (delay costs) of 102 time units.
+wywolywanie funkcji z argumentami: nieuporzadkowana: 
+koszt=8 deadline=4 waga=2
+koszt=3 deadline=2 waga=2
+
+ uporzadkowana: 
+koszt=5 deadline=23 waga=3
+koszt=11 deadline=22 waga=2
+koszt=5 deadline=10 waga=1
+wywolywanie funkcji z argumentami: nieuporzadkowana: 
+koszt=3 deadline=2 waga=2
+
+ uporzadkowana: 
+koszt=5 deadline=23 waga=3
+koszt=11 deadline=22 waga=2
+koszt=5 deadline=10 waga=1
+koszt=8 deadline=4 waga=2
+wywolywanie funkcji z argumentami: nieuporzadkowana: 
+
+ uporzadkowana: 
+koszt=5 deadline=23 waga=3
+koszt=11 deadline=22 waga=2
+koszt=5 deadline=10 waga=1
+koszt=8 deadline=4 waga=2
+koszt=3 deadline=2 waga=2
+Congratulations! Solved in 32 time units and extra costs (delay costs) of 121 time units.
+wywolywanie funkcji z argumentami: nieuporzadkowana: 
+koszt=8 deadline=4 waga=2
+
+ uporzadkowana: 
+koszt=5 deadline=23 waga=3
+koszt=11 deadline=22 waga=2
+koszt=5 deadline=10 waga=1
+koszt=3 deadline=2 waga=2
+wywolywanie funkcji z argumentami: nieuporzadkowana: 
+
+ uporzadkowana: 
+koszt=5 deadline=23 waga=3
+koszt=11 deadline=22 waga=2
+koszt=5 deadline=10 waga=1
+koszt=3 deadline=2 waga=2
+koszt=8 deadline=4 waga=2
+Congratulations! Solved in 32 time units and extra costs (delay costs) of 111 time units.
+wywolywanie funkcji z argumentami: nieuporzadkowana: 
+koszt=3 deadline=2 waga=2
+koszt=5 deadline=10 waga=1
+
+ uporzadkowana: 
+koszt=5 deadline=23 waga=3
+koszt=11 deadline=22 waga=2
+koszt=8 deadline=4 waga=2
+wywolywanie funkcji z argumentami: nieuporzadkowana: 
+koszt=5 deadline=10 waga=1
+
+ uporzadkowana: 
+koszt=5 deadline=23 waga=3
+koszt=11 deadline=22 waga=2
+koszt=8 deadline=4 waga=2
+koszt=3 deadline=2 waga=2
+wywolywanie funkcji z argumentami: nieuporzadkowana: 
+
+ uporzadkowana: 
+koszt=5 deadline=23 waga=3
+koszt=11 deadline=22 waga=2
+koszt=8 deadline=4 waga=2
+koszt=3 deadline=2 waga=2
+koszt=5 deadline=10 waga=1
+Congratulations! Solved in 32 time units and extra costs (delay costs) of 112 time units.
+wywolywanie funkcji z argumentami: nieuporzadkowana: 
+koszt=3 deadline=2 waga=2
+
+ uporzadkowana: 
+koszt=5 deadline=23 waga=3
+koszt=11 deadline=22 waga=2
+koszt=8 deadline=4 waga=2
+koszt=5 deadline=10 waga=1
+wywolywanie funkcji z argumentami: nieuporzadkowana: 
+
+ uporzadkowana: 
+koszt=5 deadline=23 waga=3
+koszt=11 deadline=22 waga=2
+koszt=8 deadline=4 waga=2
+koszt=5 deadline=10 waga=1
+koszt=3 deadline=2 waga=2
+Congratulations! Solved in 32 time units and extra costs (delay costs) of 119 time units.
+wywolywanie funkcji z argumentami: nieuporzadkowana: 
+koszt=5 deadline=10 waga=1
+koszt=8 deadline=4 waga=2
+koszt=11 deadline=22 waga=2
+koszt=5 deadline=23 waga=3
+
+ uporzadkowana: 
+koszt=3 deadline=2 waga=2
+wywolywanie funkcji z argumentami: nieuporzadkowana: 
+koszt=8 deadline=4 waga=2
+koszt=11 deadline=22 waga=2
+koszt=5 deadline=23 waga=3
+
+ uporzadkowana: 
+koszt=3 deadline=2 waga=2
+koszt=5 deadline=10 waga=1
+wywolywanie funkcji z argumentami: nieuporzadkowana: 
+koszt=11 deadline=22 waga=2
+koszt=5 deadline=23 waga=3
+
+ uporzadkowana: 
+koszt=3 deadline=2 waga=2
+koszt=5 deadline=10 waga=1
+koszt=8 deadline=4 waga=2
+wywolywanie funkcji z argumentami: nieuporzadkowana: 
+koszt=5 deadline=23 waga=3
+
+ uporzadkowana: 
+koszt=3 deadline=2 waga=2
+koszt=5 deadline=10 waga=1
+koszt=8 deadline=4 waga=2
+koszt=11 deadline=22 waga=2
+wywolywanie funkcji z argumentami: nieuporzadkowana: 
+
+ uporzadkowana: 
+koszt=3 deadline=2 waga=2
+koszt=5 deadline=10 waga=1
+koszt=8 deadline=4 waga=2
+koszt=11 deadline=22 waga=2
+koszt=5 deadline=23 waga=3
+Congratulations! Solved in 32 time units and extra costs (delay costs) of 63 time units.
+wywolywanie funkcji z argumentami: nieuporzadkowana: 
+koszt=11 deadline=22 waga=2
+
+ uporzadkowana: 
+koszt=3 deadline=2 waga=2
+koszt=5 deadline=10 waga=1
+koszt=8 deadline=4 waga=2
+koszt=5 deadline=23 waga=3
+wywolywanie funkcji z argumentami: nieuporzadkowana: 
+
+ uporzadkowana: 
+koszt=3 deadline=2 waga=2
+koszt=5 deadline=10 waga=1
+koszt=8 deadline=4 waga=2
+koszt=5 deadline=23 waga=3
+koszt=11 deadline=22 waga=2
+Congratulations! Solved in 32 time units and extra costs (delay costs) of 46 time units.
+wywolywanie funkcji z argumentami: nieuporzadkowana: 
+koszt=5 deadline=23 waga=3
+koszt=8 deadline=4 waga=2
+
+ uporzadkowana: 
+koszt=3 deadline=2 waga=2
+koszt=5 deadline=10 waga=1
+koszt=11 deadline=22 waga=2
+wywolywanie funkcji z argumentami: nieuporzadkowana: 
+koszt=8 deadline=4 waga=2
+
+ uporzadkowana: 
+koszt=3 deadline=2 waga=2
+koszt=5 deadline=10 waga=1
+koszt=11 deadline=22 waga=2
+koszt=5 deadline=23 waga=3
+wywolywanie funkcji z argumentami: nieuporzadkowana: 
+
+ uporzadkowana: 
+koszt=3 deadline=2 waga=2
+koszt=5 deadline=10 waga=1
+koszt=11 deadline=22 waga=2
+koszt=5 deadline=23 waga=3
+koszt=8 deadline=4 waga=2
+Congratulations! Solved in 32 time units and extra costs (delay costs) of 61 time units.
+wywolywanie funkcji z argumentami: nieuporzadkowana: 
+koszt=5 deadline=23 waga=3
+
+ uporzadkowana: 
+koszt=3 deadline=2 waga=2
+koszt=5 deadline=10 waga=1
+koszt=11 deadline=22 waga=2
+koszt=8 deadline=4 waga=2
+wywolywanie funkcji z argumentami: nieuporzadkowana: 
+
+ uporzadkowana: 
+koszt=3 deadline=2 waga=2
+koszt=5 deadline=10 waga=1
+koszt=11 deadline=22 waga=2
+koszt=8 deadline=4 waga=2
+koszt=5 deadline=23 waga=3
+Congratulations! Solved in 32 time units and extra costs (delay costs) of 75 time units.
+wywolywanie funkcji z argumentami: nieuporzadkowana: 
+koszt=8 deadline=4 waga=2
+koszt=11 deadline=22 waga=2
+
+ uporzadkowana: 
+koszt=3 deadline=2 waga=2
+koszt=5 deadline=10 waga=1
+koszt=5 deadline=23 waga=3
+wywolywanie funkcji z argumentami: nieuporzadkowana: 
+koszt=11 deadline=22 waga=2
+
+ uporzadkowana: 
+koszt=3 deadline=2 waga=2
+koszt=5 deadline=10 waga=1
+koszt=5 deadline=23 waga=3
+koszt=8 deadline=4 waga=2
+wywolywanie funkcji z argumentami: nieuporzadkowana: 
+
+ uporzadkowana: 
+koszt=3 deadline=2 waga=2
+koszt=5 deadline=10 waga=1
+koszt=5 deadline=23 waga=3
+koszt=8 deadline=4 waga=2
+koszt=11 deadline=22 waga=2
+Congratulations! Solved in 32 time units and extra costs (delay costs) of 56 time units.
+wywolywanie funkcji z argumentami: nieuporzadkowana: 
+koszt=8 deadline=4 waga=2
+
+ uporzadkowana: 
+koszt=3 deadline=2 waga=2
+koszt=5 deadline=10 waga=1
+koszt=5 deadline=23 waga=3
+koszt=11 deadline=22 waga=2
+wywolywanie funkcji z argumentami: nieuporzadkowana: 
+
+ uporzadkowana: 
+koszt=3 deadline=2 waga=2
+koszt=5 deadline=10 waga=1
+koszt=5 deadline=23 waga=3
+koszt=11 deadline=22 waga=2
+koszt=8 deadline=4 waga=2
+Congratulations! Solved in 32 time units and extra costs (delay costs) of 62 time units.
+wywolywanie funkcji z argumentami: nieuporzadkowana: 
+koszt=11 deadline=22 waga=2
+koszt=5 deadline=23 waga=3
+koszt=5 deadline=10 waga=1
+
+ uporzadkowana: 
+koszt=3 deadline=2 waga=2
+koszt=8 deadline=4 waga=2
+wywolywanie funkcji z argumentami: nieuporzadkowana: 
+koszt=5 deadline=23 waga=3
+koszt=5 deadline=10 waga=1
+
+ uporzadkowana: 
+koszt=3 deadline=2 waga=2
+koszt=8 deadline=4 waga=2
+koszt=11 deadline=22 waga=2
+wywolywanie funkcji z argumentami: nieuporzadkowana: 
+koszt=5 deadline=10 waga=1
+
+ uporzadkowana: 
+koszt=3 deadline=2 waga=2
+koszt=8 deadline=4 waga=2
+koszt=11 deadline=22 waga=2
+koszt=5 deadline=23 waga=3
+wywolywanie funkcji z argumentami: nieuporzadkowana: 
+
+ uporzadkowana: 
+koszt=3 deadline=2 waga=2
+koszt=8 deadline=4 waga=2
+koszt=11 deadline=22 waga=2
+koszt=5 deadline=23 waga=3
+koszt=5 deadline=10 waga=1
+Congratulations! Solved in 32 time units and extra costs (delay costs) of 50 time units.
+wywolywanie funkcji z argumentami: nieuporzadkowana: 
+koszt=5 deadline=23 waga=3
+
+ uporzadkowana: 
+koszt=3 deadline=2 waga=2
+koszt=8 deadline=4 waga=2
+koszt=11 deadline=22 waga=2
+koszt=5 deadline=10 waga=1
+wywolywanie funkcji z argumentami: nieuporzadkowana: 
+
+ uporzadkowana: 
+koszt=3 deadline=2 waga=2
+koszt=8 deadline=4 waga=2
+koszt=11 deadline=22 waga=2
+koszt=5 deadline=10 waga=1
+koszt=5 deadline=23 waga=3
+Congratulations! Solved in 32 time units and extra costs (delay costs) of 60 time units.
+wywolywanie funkcji z argumentami: nieuporzadkowana: 
+koszt=5 deadline=10 waga=1
+koszt=11 deadline=22 waga=2
+
+ uporzadkowana: 
+koszt=3 deadline=2 waga=2
+koszt=8 deadline=4 waga=2
+koszt=5 deadline=23 waga=3
+wywolywanie funkcji z argumentami: nieuporzadkowana: 
+koszt=11 deadline=22 waga=2
+
+ uporzadkowana: 
+koszt=3 deadline=2 waga=2
+koszt=8 deadline=4 waga=2
+koszt=5 deadline=23 waga=3
+koszt=5 deadline=10 waga=1
+wywolywanie funkcji z argumentami: nieuporzadkowana: 
+
+ uporzadkowana: 
+koszt=3 deadline=2 waga=2
+koszt=8 deadline=4 waga=2
+koszt=5 deadline=23 waga=3
+koszt=5 deadline=10 waga=1
+koszt=11 deadline=22 waga=2
+Congratulations! Solved in 32 time units and extra costs (delay costs) of 47 time units.
+wywolywanie funkcji z argumentami: nieuporzadkowana: 
+koszt=5 deadline=10 waga=1
+
+ uporzadkowana: 
+koszt=3 deadline=2 waga=2
+koszt=8 deadline=4 waga=2
+koszt=5 deadline=23 waga=3
+koszt=11 deadline=22 waga=2
+wywolywanie funkcji z argumentami: nieuporzadkowana: 
+
+ uporzadkowana: 
+koszt=3 deadline=2 waga=2
+koszt=8 deadline=4 waga=2
+koszt=5 deadline=23 waga=3
+koszt=11 deadline=22 waga=2
+koszt=5 deadline=10 waga=1
+Congratulations! Solved in 32 time units and extra costs (delay costs) of 48 time units.
+wywolywanie funkcji z argumentami: nieuporzadkowana: 
+koszt=11 deadline=22 waga=2
+koszt=5 deadline=23 waga=3
+
+ uporzadkowana: 
+koszt=3 deadline=2 waga=2
+koszt=8 deadline=4 waga=2
+koszt=5 deadline=10 waga=1
+wywolywanie funkcji z argumentami: nieuporzadkowana: 
+koszt=5 deadline=23 waga=3
+
+ uporzadkowana: 
+koszt=3 deadline=2 waga=2
+koszt=8 deadline=4 waga=2
+koszt=5 deadline=10 waga=1
+koszt=11 deadline=22 waga=2
+wywolywanie funkcji z argumentami: nieuporzadkowana: 
+
+ uporzadkowana: 
+koszt=3 deadline=2 waga=2
+koszt=8 deadline=4 waga=2
+koszt=5 deadline=10 waga=1
+koszt=11 deadline=22 waga=2
+koszt=5 deadline=23 waga=3
+Congratulations! Solved in 32 time units and extra costs (delay costs) of 59 time units.
+wywolywanie funkcji z argumentami: nieuporzadkowana: 
+koszt=11 deadline=22 waga=2
+
+ uporzadkowana: 
+koszt=3 deadline=2 waga=2
+koszt=8 deadline=4 waga=2
+koszt=5 deadline=10 waga=1
+koszt=5 deadline=23 waga=3
+wywolywanie funkcji z argumentami: nieuporzadkowana: 
+
+ uporzadkowana: 
+koszt=3 deadline=2 waga=2
+koszt=8 deadline=4 waga=2
+koszt=5 deadline=10 waga=1
+koszt=5 deadline=23 waga=3
+koszt=11 deadline=22 waga=2
+Congratulations! Solved in 32 time units and extra costs (delay costs) of 42 time units.
+wywolywanie funkcji z argumentami: nieuporzadkowana: 
+koszt=5 deadline=23 waga=3
+koszt=5 deadline=10 waga=1
+koszt=8 deadline=4 waga=2
+
+ uporzadkowana: 
+koszt=3 deadline=2 waga=2
+koszt=11 deadline=22 waga=2
+wywolywanie funkcji z argumentami: nieuporzadkowana: 
+koszt=5 deadline=10 waga=1
+koszt=8 deadline=4 waga=2
+
+ uporzadkowana: 
+koszt=3 deadline=2 waga=2
+koszt=11 deadline=22 waga=2
+koszt=5 deadline=23 waga=3
+wywolywanie funkcji z argumentami: nieuporzadkowana: 
+koszt=8 deadline=4 waga=2
+
+ uporzadkowana: 
+koszt=3 deadline=2 waga=2
+koszt=11 deadline=22 waga=2
+koszt=5 deadline=23 waga=3
+koszt=5 deadline=10 waga=1
+wywolywanie funkcji z argumentami: nieuporzadkowana: 
+
+ uporzadkowana: 
+koszt=3 deadline=2 waga=2
+koszt=11 deadline=22 waga=2
+koszt=5 deadline=23 waga=3
+koszt=5 deadline=10 waga=1
+koszt=8 deadline=4 waga=2
+Congratulations! Solved in 32 time units and extra costs (delay costs) of 72 time units.
+wywolywanie funkcji z argumentami: nieuporzadkowana: 
+koszt=5 deadline=10 waga=1
+
+ uporzadkowana: 
+koszt=3 deadline=2 waga=2
+koszt=11 deadline=22 waga=2
+koszt=5 deadline=23 waga=3
+koszt=8 deadline=4 waga=2
+wywolywanie funkcji z argumentami: nieuporzadkowana: 
+
+ uporzadkowana: 
+koszt=3 deadline=2 waga=2
+koszt=11 deadline=22 waga=2
+koszt=5 deadline=23 waga=3
+koszt=8 deadline=4 waga=2
+koszt=5 deadline=10 waga=1
+Congratulations! Solved in 32 time units and extra costs (delay costs) of 70 time units.
+wywolywanie funkcji z argumentami: nieuporzadkowana: 
+koszt=8 deadline=4 waga=2
+koszt=5 deadline=23 waga=3
+
+ uporzadkowana: 
+koszt=3 deadline=2 waga=2
+koszt=11 deadline=22 waga=2
+koszt=5 deadline=10 waga=1
+wywolywanie funkcji z argumentami: nieuporzadkowana: 
+koszt=5 deadline=23 waga=3
+
+ uporzadkowana: 
+koszt=3 deadline=2 waga=2
+koszt=11 deadline=22 waga=2
+koszt=5 deadline=10 waga=1
+koszt=8 deadline=4 waga=2
+wywolywanie funkcji z argumentami: nieuporzadkowana: 
+
+ uporzadkowana: 
+koszt=3 deadline=2 waga=2
+koszt=11 deadline=22 waga=2
+koszt=5 deadline=10 waga=1
+koszt=8 deadline=4 waga=2
+koszt=5 deadline=23 waga=3
+Congratulations! Solved in 32 time units and extra costs (delay costs) of 84 time units.
+wywolywanie funkcji z argumentami: nieuporzadkowana: 
+koszt=8 deadline=4 waga=2
+
+ uporzadkowana: 
+koszt=3 deadline=2 waga=2
+koszt=11 deadline=22 waga=2
+koszt=5 deadline=10 waga=1
+koszt=5 deadline=23 waga=3
+wywolywanie funkcji z argumentami: nieuporzadkowana: 
+
+ uporzadkowana: 
+koszt=3 deadline=2 waga=2
+koszt=11 deadline=22 waga=2
+koszt=5 deadline=10 waga=1
+koszt=5 deadline=23 waga=3
+koszt=8 deadline=4 waga=2
+Congratulations! Solved in 32 time units and extra costs (delay costs) of 70 time units.
+wywolywanie funkcji z argumentami: nieuporzadkowana: 
+koszt=5 deadline=23 waga=3
+koszt=5 deadline=10 waga=1
+
+ uporzadkowana: 
+koszt=3 deadline=2 waga=2
+koszt=11 deadline=22 waga=2
+koszt=8 deadline=4 waga=2
+wywolywanie funkcji z argumentami: nieuporzadkowana: 
+koszt=5 deadline=10 waga=1
+
+ uporzadkowana: 
+koszt=3 deadline=2 waga=2
+koszt=11 deadline=22 waga=2
+koszt=8 deadline=4 waga=2
+koszt=5 deadline=23 waga=3
+wywolywanie funkcji z argumentami: nieuporzadkowana: 
+
+ uporzadkowana: 
+koszt=3 deadline=2 waga=2
+koszt=11 deadline=22 waga=2
+koszt=8 deadline=4 waga=2
+koszt=5 deadline=23 waga=3
+koszt=5 deadline=10 waga=1
+Congratulations! Solved in 32 time units and extra costs (delay costs) of 72 time units.
+wywolywanie funkcji z argumentami: nieuporzadkowana: 
+koszt=5 deadline=23 waga=3
+
+ uporzadkowana: 
+koszt=3 deadline=2 waga=2
+koszt=11 deadline=22 waga=2
+koszt=8 deadline=4 waga=2
+koszt=5 deadline=10 waga=1
+wywolywanie funkcji z argumentami: nieuporzadkowana: 
+
+ uporzadkowana: 
+koszt=3 deadline=2 waga=2
+koszt=11 deadline=22 waga=2
+koszt=8 deadline=4 waga=2
+koszt=5 deadline=10 waga=1
+koszt=5 deadline=23 waga=3
+Congratulations! Solved in 32 time units and extra costs (delay costs) of 82 time units.
+wywolywanie funkcji z argumentami: nieuporzadkowana: 
+koszt=5 deadline=10 waga=1
+koszt=8 deadline=4 waga=2
+koszt=11 deadline=22 waga=2
+
+ uporzadkowana: 
+koszt=3 deadline=2 waga=2
+koszt=5 deadline=23 waga=3
+wywolywanie funkcji z argumentami: nieuporzadkowana: 
+koszt=8 deadline=4 waga=2
+koszt=11 deadline=22 waga=2
+
+ uporzadkowana: 
+koszt=3 deadline=2 waga=2
+koszt=5 deadline=23 waga=3
+koszt=5 deadline=10 waga=1
+wywolywanie funkcji z argumentami: nieuporzadkowana: 
+koszt=11 deadline=22 waga=2
+
+ uporzadkowana: 
+koszt=3 deadline=2 waga=2
+koszt=5 deadline=23 waga=3
+koszt=5 deadline=10 waga=1
+koszt=8 deadline=4 waga=2
+wywolywanie funkcji z argumentami: nieuporzadkowana: 
+
+ uporzadkowana: 
+koszt=3 deadline=2 waga=2
+koszt=5 deadline=23 waga=3
+koszt=5 deadline=10 waga=1
+koszt=8 deadline=4 waga=2
+koszt=11 deadline=22 waga=2
+Congratulations! Solved in 32 time units and extra costs (delay costs) of 59 time units.
+wywolywanie funkcji z argumentami: nieuporzadkowana: 
+koszt=8 deadline=4 waga=2
+
+ uporzadkowana: 
+koszt=3 deadline=2 waga=2
+koszt=5 deadline=23 waga=3
+koszt=5 deadline=10 waga=1
+koszt=11 deadline=22 waga=2
+wywolywanie funkcji z argumentami: nieuporzadkowana: 
+
+ uporzadkowana: 
+koszt=3 deadline=2 waga=2
+koszt=5 deadline=23 waga=3
+koszt=5 deadline=10 waga=1
+koszt=11 deadline=22 waga=2
+koszt=8 deadline=4 waga=2
+Congratulations! Solved in 32 time units and extra costs (delay costs) of 65 time units.
+wywolywanie funkcji z argumentami: nieuporzadkowana: 
+koszt=11 deadline=22 waga=2
+koszt=5 deadline=10 waga=1
+
+ uporzadkowana: 
+koszt=3 deadline=2 waga=2
+koszt=5 deadline=23 waga=3
+koszt=8 deadline=4 waga=2
+wywolywanie funkcji z argumentami: nieuporzadkowana: 
+koszt=5 deadline=10 waga=1
+
+ uporzadkowana: 
+koszt=3 deadline=2 waga=2
+koszt=5 deadline=23 waga=3
+koszt=8 deadline=4 waga=2
+koszt=11 deadline=22 waga=2
+wywolywanie funkcji z argumentami: nieuporzadkowana: 
+
+ uporzadkowana: 
+koszt=3 deadline=2 waga=2
+koszt=5 deadline=23 waga=3
+koszt=8 deadline=4 waga=2
+koszt=11 deadline=22 waga=2
+koszt=5 deadline=10 waga=1
+Congratulations! Solved in 32 time units and extra costs (delay costs) of 58 time units.
+wywolywanie funkcji z argumentami: nieuporzadkowana: 
+koszt=11 deadline=22 waga=2
+
+ uporzadkowana: 
+koszt=3 deadline=2 waga=2
+koszt=5 deadline=23 waga=3
+koszt=8 deadline=4 waga=2
+koszt=5 deadline=10 waga=1
+wywolywanie funkcji z argumentami: nieuporzadkowana: 
+
+ uporzadkowana: 
+koszt=3 deadline=2 waga=2
+koszt=5 deadline=23 waga=3
+koszt=8 deadline=4 waga=2
+koszt=5 deadline=10 waga=1
+koszt=11 deadline=22 waga=2
+Congratulations! Solved in 32 time units and extra costs (delay costs) of 57 time units.
+wywolywanie funkcji z argumentami: nieuporzadkowana: 
+koszt=5 deadline=10 waga=1
+koszt=8 deadline=4 waga=2
+
+ uporzadkowana: 
+koszt=3 deadline=2 waga=2
+koszt=5 deadline=23 waga=3
+koszt=11 deadline=22 waga=2
+wywolywanie funkcji z argumentami: nieuporzadkowana: 
+koszt=8 deadline=4 waga=2
+
+ uporzadkowana: 
+koszt=3 deadline=2 waga=2
+koszt=5 deadline=23 waga=3
+koszt=11 deadline=22 waga=2
+koszt=5 deadline=10 waga=1
+wywolywanie funkcji z argumentami: nieuporzadkowana: 
+
+ uporzadkowana: 
+koszt=3 deadline=2 waga=2
+koszt=5 deadline=23 waga=3
+koszt=11 deadline=22 waga=2
+koszt=5 deadline=10 waga=1
+koszt=8 deadline=4 waga=2
+Congratulations! Solved in 32 time units and extra costs (delay costs) of 72 time units.
+wywolywanie funkcji z argumentami: nieuporzadkowana: 
+koszt=5 deadline=10 waga=1
+
+ uporzadkowana: 
+koszt=3 deadline=2 waga=2
+koszt=5 deadline=23 waga=3
+koszt=11 deadline=22 waga=2
+koszt=8 deadline=4 waga=2
+wywolywanie funkcji z argumentami: nieuporzadkowana: 
+
+ uporzadkowana: 
+koszt=3 deadline=2 waga=2
+koszt=5 deadline=23 waga=3
+koszt=11 deadline=22 waga=2
+koszt=8 deadline=4 waga=2
+koszt=5 deadline=10 waga=1
+Congratulations! Solved in 32 time units and extra costs (delay costs) of 70 time units.

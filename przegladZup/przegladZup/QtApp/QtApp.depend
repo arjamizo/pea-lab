@@ -1,0 +1,89 @@
+# depslib dependency file v1.0
+1352723986 source:c:\me_ftp\labpea\przegladzup\przegladzup\qtapp\main.cpp
+	<iostream>
+	<QApplication>
+	<QMainWindow>
+	<QtGui/QApplication>
+	<QtGui/QTextEdit>
+	<QMainWindow>
+	<utility>
+	<list>
+	<QtCore/QMutexLocker>
+	<QtCore/QRunnable>
+	<QtCore/QThreadPool>
+	<QtCore/QMutex>
+	"SimulationViewer.h"
+	"Zad.h"
+	"Solvers.h"
+
+1352680480 c:\me_ftp\labpea\przegladzup\przegladzup\qtapp\graphwidget.hmoc.h
+	"GraphWidget.h"
+
+1352681044 c:\me_ftp\labpea\przegladzup\przegladzup\qtapp\graphwidget.h
+	<QGraphicsView>
+	<QGraphicsScene>
+
+1352725051 source:c:\me_ftp\labpea\przegladzup\przegladzup\qtapp\graphwidget.hmoc.cpp
+	"GraphWidget.h"
+
+1352725102 source:c:\me_ftp\labpea\przegladzup\przegladzup\qtapp\simulationviewer.hmoc.cpp
+	"SimulationViewer.h"
+
+1352722492 c:\me_ftp\labpea\przegladzup\przegladzup\qtapp\simulationviewer.h
+	"../Solver.h"
+	<QThread>
+	"GraphWidget.h"
+
+1352721357 source:c:\me_ftp\labpea\przegladzup\przegladzup\solver.cpp
+	"Solver.h"
+	<iterator>
+	<windows.h>
+	"SimulationViewer.h"
+
+1352720968 c:\me_ftp\labpea\przegladzup\przegladzup\solver.h
+	<list>
+	"Zad.h"
+
+1352676215 c:\me_ftp\labpea\przegladzup\przegladzup\zad.h
+	<iostream>
+	<istream>
+	<ostream>
+
+1352675911 source:c:\me_ftp\labpea\przegladzup\przegladzup\zad.cpp
+	"Zad.h"
+
+1352680478 c:\me_ftp\labpea\przegladzup\przegladzup\qtapp\simulationviewer.hmoc.h
+	"SimulationViewer.h"
+
+1352681099 source:c:\me_ftp\labpea\przegladzup\przegladzup\qtapp\graphwidget.cpp
+	"GraphWidget.h"
+	<QGraphicsItem>
+	<QTimerEvent>
+	<QKeyEvent>
+	<QWheelEvent>
+	<utility>
+	<list>
+	<iostream>
+	"Vertex.h"
+	<math.h>
+
+1352681523 c:\me_ftp\labpea\przegladzup\przegladzup\qtapp\vertex.h
+	<QtGui/QGraphicsItem>
+	<QtGui/QPainter>
+
+1352722501 source:c:\me_ftp\labpea\przegladzup\przegladzup\qtapp\simulationviewer.cpp
+	"SimulationViewer.h"
+	"Solver.h"
+	"Vertex.h"
+	<iostream>
+	<QThread>
+	<QGraphicsLineItem>
+
+1352681462 source:c:\me_ftp\labpea\przegladzup\przegladzup\qtapp\vertex.cpp
+	"Vertex.h"
+
+1352682753 source:c:\me_ftp\labpea\przegladzup\przegladzup\read.cpp
+	<fstream>
+	<list>
+	"Zad.h"
+

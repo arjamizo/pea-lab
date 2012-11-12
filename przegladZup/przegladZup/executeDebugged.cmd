@@ -1,0 +1,1 @@
+Debug\przegladZup.exe %* > stdout.txt
